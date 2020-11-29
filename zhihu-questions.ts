@@ -5,8 +5,8 @@ import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 // import { config } from 'dotenv/mod.ts'
 
-import type { Question, ZhihuQuestionList } from "./types.ts";
-import { createArchive, createReadme, mergeQuestions } from "./utils.ts";
+import type { ZhihuQuestionList, Question } from "./types.ts";
+import { createArchive4Question, createReadme4Question, mergeQuestions } from "./utils.ts";
 
 const response = await fetch(
   "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=100",
@@ -42,11 +42,11 @@ export async function zhihuQuestions() {
   await Deno.writeTextFile(fullPath, JSON.stringify(questionsAll));
 
   // 更新 README.md
-  const readme = await createReadme(questionsAll);
+  const readme = await createReadme4Question(questionsAll);
   await Deno.writeTextFile("./README.md", readme);
 
   // 更新 archives
-  const archiveText = createArchive(questionsAll, yyyyMMdd);
+  const archiveText = createArchive4Question(questionsAll, yyyyMMdd);
   const archivePath = join("archives/zhihu-questions", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
 }

@@ -3,14 +3,16 @@ import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
 import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
 
 import {
-  createArchive,
+  createArchive4Question,
   createArchive4Search,
   createArchive4Toutiao,
+  createArchive4Video,
   createArchive4Weibo,
   createQuestionList,
-  createReadme,
+  createReadme4Question,
   createReadme4Search,
   createReadme4Toutiao,
+  createReadme4Video,
   createReadme4Weibo,
   createSearchList,
   createTuotiaoList,
@@ -90,7 +92,7 @@ Deno.test("createReadme4Toutiao", async function (): Promise<void> {
   assertStringIncludes(await createReadme4Toutiao(words), "头条");
   assertStringIncludes(
     await createReadme4Toutiao(words),
-    "zhihu-trending-hot-questions",
+    "trending-in-one",
   );
 });
 
@@ -147,26 +149,49 @@ Deno.test("createQuestionList", function (): void {
   assertStringIncludes(createQuestionList(words), "hello");
 });
 
-Deno.test("createArchive", function (): void {
+Deno.test("createArchive4Question", function (): void {
   const words: Question[] = [
     { title: "foo", url: "bar" },
     { title: "hello", url: "world" },
   ];
 
-  assertStringIncludes(createArchive(words, "2020-02-02"), "# 2020-02-02");
-  assertStringIncludes(createArchive(words, "2020-02-02"), "共 2 条");
+  assertStringIncludes(createArchive4Question(words, "2020-02-02"), "# 2020-02-02");
+  assertStringIncludes(createArchive4Question(words, "2020-02-02"), "共 2 条");
 });
 
-Deno.test("createReadme", async function (): Promise<void> {
+Deno.test("createReadme4Question", async function (): Promise<void> {
   const words: Question[] = [
     { title: "foo", url: "bar" },
     { title: "hello", url: "world" },
   ];
 
-  assertStringIncludes(await createReadme(words), "热门");
+  assertStringIncludes(await createReadme4Question(words), "热门");
   assertStringIncludes(
-    await createReadme(words),
-    "zhihu-trending-hot-questions",
+    await createReadme4Question(words),
+    "trending-in-one",
+  );
+});
+
+Deno.test("createArchive4Video", function (): void {
+  const words: Question[] = [
+    { title: "foo", url: "bar" },
+    { title: "hello", url: "world" },
+  ];
+
+  assertStringIncludes(createArchive4Video(words, "2020-02-02"), "# 2020-02-02");
+  assertStringIncludes(createArchive4Video(words, "2020-02-02"), "共 2 条");
+});
+
+Deno.test("createReadme4Video", async function (): Promise<void> {
+  const words: Question[] = [
+    { title: "foo", url: "bar" },
+    { title: "hello", url: "world" },
+  ];
+
+  assertStringIncludes(await createReadme4Video(words), "热门");
+  assertStringIncludes(
+    await createReadme4Video(words),
+    "trending-in-one",
   );
 });
 
@@ -239,7 +264,7 @@ Deno.test("createReadme4Weibo", async function (): Promise<void> {
   assertStringIncludes(await createReadme4Weibo(words), "微博");
   assertStringIncludes(
     await createReadme4Weibo(words),
-    "zhihu-trending-hot-questions",
+    "trending-in-one",
   );
 });
 
@@ -312,6 +337,6 @@ Deno.test("createReadme4Search", async function (): Promise<void> {
   assertStringIncludes(await createReadme4Search(words), "热搜");
   assertStringIncludes(
     await createReadme4Search(words),
-    "zhihu-trending-hot-questions",
+    "trending-in-one",
   );
 });

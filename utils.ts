@@ -1,4 +1,4 @@
-import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
+import type { Question, SearchWord, Word, ToutiaoWord } from "./types.ts";
 
 /** 合并两次热门话题并根据 id 去重 */
 export function mergeQuestions(
@@ -60,13 +60,17 @@ export function mergeWords4Weibo(
   }));
 }
 
-export async function createReadme(words: Question[]): Promise<string> {
+export async function createReadme4Video(words: Question[]): Promise<string> {
   const readme = await Deno.readTextFile("./README.md");
   return readme.replace(
     /<!-- BEGIN ZHIHUVIDEO -->[\W\w]*<!-- END ZHIHUVIDEO -->/,
     createVideoList(words),
-  )
-    .replace(
+  );
+}
+
+export async function createReadme4Question(words: Question[]): Promise<string> {
+  const readme = await Deno.readTextFile("./README.md");
+  return readme.replace(
       /<!-- BEGIN ZHIHUQUESTIONS -->[\W\w]*<!-- END ZHIHUQUESTIONS -->/,
       createQuestionList(words),
     );
@@ -151,7 +155,14 @@ ${
 <!-- END TOUTIAO -->`;
 }
 
-export function createArchive(words: Question[], date: string): string {
+export function createArchive4Question(words: Question[], date: string): string {
+  return `# ${date}\n
+共 ${words.length} 条\n
+${createQuestionList(words)}
+`;
+}
+
+export function createArchive4Video(words: Question[], date: string): string {
   return `# ${date}\n
 共 ${words.length} 条\n
 ${createVideoList(words)}

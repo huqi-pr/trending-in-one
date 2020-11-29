@@ -4,8 +4,8 @@ import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
-import type { Question, ZhihuVideoList } from "./types.ts";
-import { createArchive, createReadme, mergeQuestions } from "./utils.ts";
+import type { ZhihuVideoList, Question } from "./types.ts";
+import { createArchive4Video, createReadme4Video, mergeQuestions } from "./utils.ts";
 
 const response = await fetch(
   "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/zvideo?limit=100",
@@ -46,11 +46,11 @@ export async function zhihuVideo() {
   await Deno.writeTextFile(fullPath, JSON.stringify(questionsAll));
 
   // 更新 README.md
-  const readme = await createReadme(questionsAll);
+  const readme = await createReadme4Video(questionsAll);
   await Deno.writeTextFile("./README.md", readme);
 
   // 更新 archives
-  const archiveText = createArchive(questionsAll, yyyyMMdd);
+  const archiveText = createArchive4Video(questionsAll, yyyyMMdd);
   const archivePath = join("archives/zhihu-video", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
 }
