@@ -68,12 +68,14 @@ export async function createReadme4Video(words: Question[]): Promise<string> {
   );
 }
 
-export async function createReadme4Question(words: Question[]): Promise<string> {
+export async function createReadme4Question(
+  words: Question[],
+): Promise<string> {
   const readme = await Deno.readTextFile("./README.md");
   return readme.replace(
-      /<!-- BEGIN ZHIHUQUESTIONS -->[\W\w]*<!-- END ZHIHUQUESTIONS -->/,
-      createQuestionList(words),
-    );
+    /<!-- BEGIN ZHIHUQUESTIONS -->[\W\w]*<!-- END ZHIHUQUESTIONS -->/,
+    createQuestionList(words),
+  );
 }
 
 export async function createReadme4Search(
@@ -155,7 +157,10 @@ ${
 <!-- END TOUTIAO -->`;
 }
 
-export function createArchive4Question(words: Question[], date: string): string {
+export function createArchive4Question(
+  words: Question[],
+  date: string,
+): string {
   return `# ${date}\n
 共 ${words.length} 条\n
 ${createQuestionList(words)}

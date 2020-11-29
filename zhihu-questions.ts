@@ -6,7 +6,11 @@ import { exists } from "std/fs/mod.ts";
 // import { config } from 'dotenv/mod.ts'
 
 import type { ZhihuQuestionList, Question } from "./types.ts";
-import { createArchive4Question, createReadme4Question, mergeQuestions } from "./utils.ts";
+import {
+  createArchive4Question,
+  createReadme4Question,
+  mergeQuestions,
+} from "./utils.ts";
 
 const response = await fetch(
   "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=100",

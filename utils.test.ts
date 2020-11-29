@@ -155,7 +155,10 @@ Deno.test("createArchive4Question", function (): void {
     { title: "hello", url: "world" },
   ];
 
-  assertStringIncludes(createArchive4Question(words, "2020-02-02"), "# 2020-02-02");
+  assertStringIncludes(
+    createArchive4Question(words, "2020-02-02"),
+    "# 2020-02-02",
+  );
   assertStringIncludes(createArchive4Question(words, "2020-02-02"), "共 2 条");
 });
 
@@ -178,7 +181,10 @@ Deno.test("createArchive4Video", function (): void {
     { title: "hello", url: "world" },
   ];
 
-  assertStringIncludes(createArchive4Video(words, "2020-02-02"), "# 2020-02-02");
+  assertStringIncludes(
+    createArchive4Video(words, "2020-02-02"),
+    "# 2020-02-02",
+  );
   assertStringIncludes(createArchive4Video(words, "2020-02-02"), "共 2 条");
 });
 
