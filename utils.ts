@@ -37,7 +37,7 @@ export function mergeWords4Toutiao(
 ): ToutiaoWord[] {
   const obj: Record<string, string> = {};
   for (const w of words.concat(another)) {
-    obj[w.word] = w.word;
+    obj[w.url] = w.word;
   }
   return Object.entries(obj).map(([url, word]) => ({
     url,
@@ -62,24 +62,42 @@ export function mergeWords4Weibo(
 
 export async function createReadme(words: Question[]): Promise<string> {
   const readme = await Deno.readTextFile("./README.md");
-  return readme.replace(/<!-- BEGIN ZHIHUVIDEO -->[\W\w]*<!-- END ZHIHUVIDEO -->/, createVideoList(words))
-               .replace(/<!-- BEGIN ZHIHUQUESTIONS -->[\W\w]*<!-- END ZHIHUQUESTIONS -->/, createQuestionList(words));
-
+  return readme.replace(
+    /<!-- BEGIN ZHIHUVIDEO -->[\W\w]*<!-- END ZHIHUVIDEO -->/,
+    createVideoList(words),
+  )
+    .replace(
+      /<!-- BEGIN ZHIHUQUESTIONS -->[\W\w]*<!-- END ZHIHUQUESTIONS -->/,
+      createQuestionList(words),
+    );
 }
 
-export async function createReadme4Search(words: SearchWord[]): Promise<string> {
+export async function createReadme4Search(
+  words: SearchWord[],
+): Promise<string> {
   const readme = await Deno.readTextFile("./README.md");
-  return readme.replace(/<!-- BEGIN ZHIHUSEARCH -->[\W\w]*<!-- END ZHIHUSEARCH -->/, createSearchList(words));
+  return readme.replace(
+    /<!-- BEGIN ZHIHUSEARCH -->[\W\w]*<!-- END ZHIHUSEARCH -->/,
+    createSearchList(words),
+  );
 }
 
 export async function createReadme4Weibo(words: Word[]): Promise<string> {
   const readme = await Deno.readTextFile("./README.md");
-  return readme.replace(/<!-- BEGIN WEIBO -->[\W\w]*<!-- END WEIBO -->/, createWeiboList(words));
+  return readme.replace(
+    /<!-- BEGIN WEIBO -->[\W\w]*<!-- END WEIBO -->/,
+    createWeiboList(words),
+  );
 }
 
-export async function createReadme4Toutiao(words: ToutiaoWord[]): Promise<string> {
+export async function createReadme4Toutiao(
+  words: ToutiaoWord[],
+): Promise<string> {
   const readme = await Deno.readTextFile("./README.md");
-  return readme.replace(/<!-- BEGIN TOUTIAO -->[\W\w]*<!-- END TOUTIAO -->/, createTuotiaoList(words));
+  return readme.replace(
+    /<!-- BEGIN TOUTIAO -->[\W\w]*<!-- END TOUTIAO -->/,
+    createTuotiaoList(words),
+  );
 }
 
 export function createVideoList(words: Question[]): string {
@@ -133,8 +151,6 @@ ${
 <!-- END TOUTIAO -->`;
 }
 
-
-
 export function createArchive(words: Question[], date: string): string {
   return `# ${date}\n
 共 ${words.length} 条\n
@@ -142,7 +158,10 @@ ${createVideoList(words)}
 `;
 }
 
-export function createArchive4Search(words: SearchWord[], date: string): string {
+export function createArchive4Search(
+  words: SearchWord[],
+  date: string,
+): string {
   return `# ${date}\n
 共 ${words.length} 条\n
 ${createSearchList(words)}
@@ -156,10 +175,12 @@ ${createWeiboList(words)}
 `;
 }
 
-export function createArchive4Toutiao(words: ToutiaoWord[], date: string): string {
+export function createArchive4Toutiao(
+  words: ToutiaoWord[],
+  date: string,
+): string {
   return `# ${date}\n
 共 ${words.length} 条\n
 ${createTuotiaoList(words)}
 `;
 }
-

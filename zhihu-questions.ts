@@ -8,7 +8,6 @@ import { exists } from "std/fs/mod.ts";
 import type { ZhihuQuestionList, Question } from "./types.ts";
 import { createArchive, createReadme, mergeQuestions } from "./utils.ts";
 
-
 const response = await fetch(
   "https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=100",
 );
@@ -39,7 +38,6 @@ const questionsAll = mergeQuestions(questions, questionsAlreadyDownload);
 export const zhihuQuestionData = questionsAll;
 
 export async function zhihuQuestions() {
-
   // 保存原始数据
   await Deno.writeTextFile(fullPath, JSON.stringify(questionsAll));
 
@@ -51,5 +49,4 @@ export async function zhihuQuestions() {
   const archiveText = createArchive(questionsAll, yyyyMMdd);
   const archivePath = join("archives/zhihu-questions", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
-
 }

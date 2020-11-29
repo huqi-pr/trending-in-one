@@ -5,7 +5,11 @@ import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
 import type { Word } from "./types.ts";
-import { createArchive4Weibo, createReadme4Weibo, mergeWords4Weibo } from "./utils.ts";
+import {
+  createArchive4Weibo,
+  createReadme4Weibo,
+  mergeWords4Weibo,
+} from "./utils.ts";
 
 const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
 
@@ -36,11 +40,10 @@ if (await exists(fullPath)) {
 
 const queswordsAll = mergeWords4Weibo(words, wordsAlreadyDownload);
 
-export const weiboSearchData = queswordsAll.map(x=> {
+export const weiboSearchData = queswordsAll.map((x) => {
   x.realurl = `https://s.weibo.com/${x.url}`;
   return x;
 });
-
 
 export async function weiboSearch() {
   // 保存原始数据
@@ -54,6 +57,4 @@ export async function weiboSearch() {
   const archiveText = createArchive4Weibo(queswordsAll, yyyyMMdd);
   const archivePath = join("archives/weibo-search", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
-
 }
-

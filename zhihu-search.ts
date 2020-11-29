@@ -5,7 +5,11 @@ import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
 import type { SearchWord, TopSearch } from "./types.ts";
-import { createArchive4Search, createReadme4Search, mergeWords } from "./utils.ts";
+import {
+  createArchive4Search,
+  createReadme4Search,
+  mergeWords,
+} from "./utils.ts";
 
 const response = await fetch("https://www.zhihu.com/api/v4/search/top_search");
 
@@ -28,7 +32,7 @@ if (await exists(fullPath)) {
 
 const wordsAll = mergeWords(words, wordsAlreadyDownload);
 
-export const zhihuSearchData = wordsAll.map(x=> {
+export const zhihuSearchData = wordsAll.map((x) => {
   x.url = `https://www.zhihu.com/search?q=${x.query}`;
   return x;
 });
@@ -45,5 +49,4 @@ export async function zhihuSearch() {
   const archiveText = createArchive4Search(wordsAll, yyyyMMdd);
   const archivePath = join("archives/zhihu-search", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
-
 }

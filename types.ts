@@ -32,7 +32,7 @@ export type ZhihuQuestionList = {
 export type SearchWord = {
   query: string;
   display_query: string;
-  url?: string
+  url?: string;
 };
 
 export type TopSearch = {
@@ -50,12 +50,12 @@ export type Word = {
 export type ToutiaoTopSearch = {
   data: [
     {
-      words: ToutiaoWord[]
-    }
-  ]
-}
+      words: ToutiaoWord[];
+    },
+  ];
+};
 
 export type ToutiaoWord = {
   word: string;
-  url?: string
+  url: string;
 };

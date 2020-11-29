@@ -42,7 +42,6 @@ const questionsAll = mergeQuestions(questions, questionsAlreadyDownload);
 export const zhihuVideoData = questionsAll;
 
 export async function zhihuVideo() {
-
   // 保存原始数据
   await Deno.writeTextFile(fullPath, JSON.stringify(questionsAll));
 
@@ -54,6 +53,4 @@ export async function zhihuVideo() {
   const archiveText = createArchive(questionsAll, yyyyMMdd);
   const archivePath = join("archives/zhihu-video", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
-
 }
-

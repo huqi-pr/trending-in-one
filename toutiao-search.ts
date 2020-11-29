@@ -5,9 +5,15 @@ import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
 import type { ToutiaoTopSearch, ToutiaoWord } from "./types.ts";
-import { createArchive4Toutiao, createReadme4Toutiao, mergeWords4Toutiao } from "./utils.ts";
+import {
+  createArchive4Toutiao,
+  createReadme4Toutiao,
+  mergeWords4Toutiao,
+} from "./utils.ts";
 
-const response = await fetch("https://is-lq.snssdk.com/api/suggest_words/?business_id=10016");
+const response = await fetch(
+  "https://is-lq.snssdk.com/api/suggest_words/?business_id=10016",
+);
 
 if (!response.ok) {
   console.error(response.statusText);
@@ -26,11 +32,10 @@ if (await exists(fullPath)) {
   wordsAlreadyDownload = JSON.parse(content);
 }
 
-
 const wordsAll = mergeWords4Toutiao(words, wordsAlreadyDownload);
 
-export const ToutiaoSearchData = wordsAll.map(x=> {
-  x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(' ','+')}`;
+export const ToutiaoSearchData = wordsAll.map((x) => {
+  x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(" ", "+")}`;
   return x;
 });
 
@@ -46,5 +51,4 @@ export async function toutiaoSearch() {
   const archiveText = createArchive4Toutiao(wordsAll, yyyyMMdd);
   const archivePath = join("archives/toutiao-search", `${yyyyMMdd}.md`);
   await Deno.writeTextFile(archivePath, archiveText);
-
 }
