@@ -32,12 +32,14 @@ if (await exists(fullPath)) {
   wordsAlreadyDownload = JSON.parse(content);
 }
 
-const wordsAll = mergeWords4Toutiao(words, wordsAlreadyDownload);
-
-export const ToutiaoSearchData = wordsAll.map((x) => {
+const _words = words.map((x) => {
   x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(" ", "+")}`;
   return x;
 });
+
+const wordsAll = mergeWords4Toutiao(_words, wordsAlreadyDownload);
+
+export const ToutiaoSearchData = wordsAll;
 
 export async function toutiaoSearch() {
   // 保存原始数据
