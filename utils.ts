@@ -1,4 +1,4 @@
-import type { Question, SearchWord, Word, ToutiaoWord } from "./types.ts";
+import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
 
 /** 合并两次热门话题并根据 id 去重 */
 export function mergeQuestions(

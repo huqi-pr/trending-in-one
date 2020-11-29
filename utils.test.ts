@@ -1,24 +1,24 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
 import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
-import type { Question, SearchWord, Word, ToutiaoWord } from "./types.ts";
+import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
 
 import {
   createArchive,
-  createTuotiaoList,
+  createArchive4Toutiao,
+  createArchive4Weibo,
+  createArchive4Search,
+  createQuestionList,
   createReadme,
+  createReadme4Toutiao,
+  createReadme4Weibo,
+  createReadme4Search,
+  createSearchList,
+  createTuotiaoList,
+  createWeiboList,
   mergeWords,
   mergeQuestions,
   mergeWords4Toutiao,
   mergeWords4Weibo,
-  createWeiboList,
-  createQuestionList,
-  createReadme4Toutiao,
-  createArchive4Toutiao,
-  createArchive4Weibo,
-  createReadme4Weibo,
-  createReadme4Search,
-  createArchive4Search,
-  createSearchList,
 } from "./utils.ts";
 
 Deno.test("mergeWords4Toutiao", function (): void {

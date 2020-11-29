@@ -5,7 +5,7 @@ import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 // import { config } from 'dotenv/mod.ts'
 
-import type { ZhihuQuestionList, Question } from "./types.ts";
+import type { Question, ZhihuQuestionList } from "./types.ts";
 import { createArchive, createReadme, mergeQuestions } from "./utils.ts";
 
 const response = await fetch(
