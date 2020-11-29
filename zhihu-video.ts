@@ -4,7 +4,7 @@ import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
-import type { ZhihuVideoList, Question } from "./types.ts";
+import type { Question, ZhihuVideoList } from "./types.ts";
 import {
   createArchive4Video,
   createReadme4Video,
