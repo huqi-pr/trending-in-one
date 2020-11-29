@@ -4,19 +4,19 @@ import type { Question, SearchWord, ToutiaoWord, Word } from "./types.ts";
 
 import {
   createArchive,
+  createArchive4Search,
   createArchive4Toutiao,
   createArchive4Weibo,
-  createArchive4Search,
   createQuestionList,
   createReadme,
+  createReadme4Search,
   createReadme4Toutiao,
   createReadme4Weibo,
-  createReadme4Search,
   createSearchList,
   createTuotiaoList,
   createWeiboList,
-  mergeWords,
   mergeQuestions,
+  mergeWords,
   mergeWords4Toutiao,
   mergeWords4Weibo,
 } from "./utils.ts";
