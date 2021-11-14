@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Nov 15 2021 03:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 15 2021 04:08:42 GMT+0800 (China Standard Time) -->
 1. [书写中华民族几千年历史上最恢宏的史诗](https://so.toutiao.com/search?keyword=书写中华民族几千年历史上最恢宏的史诗)
 1. [百年奋斗积累了哪些宝贵的历史经验](https://so.toutiao.com/search?keyword=百年奋斗积累了哪些宝贵的历史经验)
 1. [大连疫情出现超级传播者](https://so.toutiao.com/search?keyword=大连疫情出现超级传播者)
@@ -33,47 +33,49 @@
 1. [疫情波及21省 大连封城为谣言](https://so.toutiao.com/search?keyword=疫情波及21省+大连封城为谣言)
 1. [老师铅笔芯刻出消防员救援坠楼瞬间](https://so.toutiao.com/search?keyword=老师铅笔芯刻出消防员救援坠楼瞬间)
 1. [邮储银行将停止手机银行部分功能](https://so.toutiao.com/search?keyword=邮储银行将停止手机银行部分功能)
-1. [爸爸带娃隔离14天 女儿顶新发型回家](https://so.toutiao.com/search?keyword=爸爸带娃隔离14天+女儿顶新发型回家)
 1. [女子炒锅倒油“炒”出龙卷风](https://so.toutiao.com/search?keyword=女子炒锅倒油“炒”出龙卷风)
+1. [解放军军机连续14天进台空域](https://so.toutiao.com/search?keyword=解放军军机连续14天进台空域)
 1. [中美达成强化气候行动联合宣言](https://so.toutiao.com/search?keyword=中美达成强化气候行动联合宣言)
 1. [《星辰大海》刘涛演的简爱有多励志](https://so.toutiao.com/search?keyword=《星辰大海》刘涛演的简爱有多励志)
 1. [大连因冷链发生三次输入疫情](https://so.toutiao.com/search?keyword=大连因冷链发生三次输入疫情)
 1. [新中国最大银行贪污案主犯归案](https://so.toutiao.com/search?keyword=新中国最大银行贪污案主犯归案)
 1. [苏炳添坦言百米要比博尔特多跑7步](https://so.toutiao.com/search?keyword=苏炳添坦言百米要比博尔特多跑7步)
-1. [解放军军机连续14天进台空域](https://so.toutiao.com/search?keyword=解放军军机连续14天进台空域)
-1. [同曦集团通报批评同曦男篮俱乐部](https://so.toutiao.com/search?keyword=同曦集团通报批评同曦男篮俱乐部)
-1. [北交所81家上市公司画像大起底](https://so.toutiao.com/search?keyword=北交所81家上市公司画像大起底)
+1. [爸爸带娃隔离14天 女儿顶新发型回家](https://so.toutiao.com/search?keyword=爸爸带娃隔离14天+女儿顶新发型回家)
 1. [CBA：吉林胜新疆 阿不都空砍35+15](https://so.toutiao.com/search?keyword=CBA：吉林胜新疆+阿不都空砍35+15)
-1. [世乒赛热身赛：樊振东胜马龙夺冠](https://so.toutiao.com/search?keyword=世乒赛热身赛：樊振东胜马龙夺冠)
+1. [北交所完成门牌吊装 周一开张](https://so.toutiao.com/search?keyword=北交所完成门牌吊装+周一开张)
+1. [北交所81家上市公司画像大起底](https://so.toutiao.com/search?keyword=北交所81家上市公司画像大起底)
+1. [同曦集团通报批评同曦男篮俱乐部](https://so.toutiao.com/search?keyword=同曦集团通报批评同曦男篮俱乐部)
 1. [大连疫情何以日渐“胶着”](https://so.toutiao.com/search?keyword=大连疫情何以日渐“胶着”)
 1. [芭莎慈善夜合照背后的故事](https://so.toutiao.com/search?keyword=芭莎慈善夜合照背后的故事)
-1. [北交所完成门牌吊装 周一开张](https://so.toutiao.com/search?keyword=北交所完成门牌吊装+周一开张)
+1. [世乒赛热身赛：樊振东胜马龙夺冠](https://so.toutiao.com/search?keyword=世乒赛热身赛：樊振东胜马龙夺冠)
 1. [网络数据安全管理条例征求意见](https://so.toutiao.com/search?keyword=网络数据安全管理条例征求意见)
 1. [45岁程序员发帖令人心酸](https://so.toutiao.com/search?keyword=45岁程序员发帖令人心酸)
+1. [武汉一高楼外墙脱落致1人死亡](https://so.toutiao.com/search?keyword=武汉一高楼外墙脱落致1人死亡)
+1. [辽宁男篮12胜1负锁定第一阶段榜首](https://so.toutiao.com/search?keyword=辽宁男篮12胜1负锁定第一阶段榜首)
+1. [加油站给120升的油箱加油161升](https://so.toutiao.com/search?keyword=加油站给120升的油箱加油161升)
 1. [涪陵榨菜宣布涨价](https://so.toutiao.com/search?keyword=涪陵榨菜宣布涨价)
 1. [网飞新片《红色通缉令》破收视记录](https://so.toutiao.com/search?keyword=网飞新片《红色通缉令》破收视记录)
-1. [武汉一高楼外墙脱落致1人死亡](https://so.toutiao.com/search?keyword=武汉一高楼外墙脱落致1人死亡)
-1. [加油站给120升的油箱加油161升](https://so.toutiao.com/search?keyword=加油站给120升的油箱加油161升)
-1. [辽宁男篮12胜1负锁定第一阶段榜首](https://so.toutiao.com/search?keyword=辽宁男篮12胜1负锁定第一阶段榜首)
-1. [英媒：曼联邀请齐达内执教](https://so.toutiao.com/search?keyword=英媒：曼联邀请齐达内执教)
 1. [辽篮为郭艾伦庆祝生日](https://so.toutiao.com/search?keyword=辽篮为郭艾伦庆祝生日)
-1. [女子发现多个手机APP自动续费](https://so.toutiao.com/search?keyword=女子发现多个手机APP自动续费)
 1. [“力箭一号”运载火箭箭地合练成功](https://so.toutiao.com/search?keyword=“力箭一号”运载火箭箭地合练成功)
-1. [汪涵吐槽透明雨伞太娘引争议](https://so.toutiao.com/search?keyword=汪涵吐槽透明雨伞太娘引争议)
-1. [拓新药业因股价严重异常波动遭停牌](https://so.toutiao.com/search?keyword=拓新药业因股价严重异常波动遭停牌)
-1. [比亚迪首次明确燃油车停产时间表](https://so.toutiao.com/search?keyword=比亚迪首次明确燃油车停产时间表)
-1. [小狐狸频繁现身北京潭柘寺](https://so.toutiao.com/search?keyword=小狐狸频繁现身北京潭柘寺)
-1. [男子偷手机被抓吐槽失主密码太简单](https://so.toutiao.com/search?keyword=男子偷手机被抓吐槽失主密码太简单)
-1. [永太科技控股子公司拟引入宁德时代](https://so.toutiao.com/search?keyword=永太科技控股子公司拟引入宁德时代)
 1. [“长赐”号货轮完成修复重启航线](https://so.toutiao.com/search?keyword=“长赐”号货轮完成修复重启航线)
-1. [杨鸣发文：祝郭艾伦生日快乐](https://so.toutiao.com/search?keyword=杨鸣发文：祝郭艾伦生日快乐)
-1. [榨菜也涨价了：涨幅20%起](https://so.toutiao.com/search?keyword=榨菜也涨价了：涨幅20%起)
-1. [补壹刀：印度的七宗罪](https://so.toutiao.com/search?keyword=补壹刀：印度的七宗罪)
+1. [女子发现多个手机APP自动续费](https://so.toutiao.com/search?keyword=女子发现多个手机APP自动续费)
+1. [英媒：曼联邀请齐达内执教](https://so.toutiao.com/search?keyword=英媒：曼联邀请齐达内执教)
 1. [英国拟对英伟达收购Arm展开调查](https://so.toutiao.com/search?keyword=英国拟对英伟达收购Arm展开调查)
+1. [榨菜也涨价了：涨幅20%起](https://so.toutiao.com/search?keyword=榨菜也涨价了：涨幅20%起)
+1. [中行内蒙古分行原行长张凤槐被查](https://so.toutiao.com/search?keyword=中行内蒙古分行原行长张凤槐被查)
+1. [拓新药业因股价严重异常波动遭停牌](https://so.toutiao.com/search?keyword=拓新药业因股价严重异常波动遭停牌)
+1. [汪涵吐槽透明雨伞太娘引争议](https://so.toutiao.com/search?keyword=汪涵吐槽透明雨伞太娘引争议)
+1. [小狐狸频繁现身北京潭柘寺](https://so.toutiao.com/search?keyword=小狐狸频繁现身北京潭柘寺)
+1. [全国都是东北人 为啥东北没有人](https://so.toutiao.com/search?keyword=全国都是东北人+为啥东北没有人)
+1. [联合国糖尿病日](https://so.toutiao.com/search?keyword=联合国糖尿病日)
+1. [永太科技控股子公司拟引入宁德时代](https://so.toutiao.com/search?keyword=永太科技控股子公司拟引入宁德时代)
+1. [比亚迪首次明确燃油车停产时间表](https://so.toutiao.com/search?keyword=比亚迪首次明确燃油车停产时间表)
+1. [男子偷手机被抓吐槽失主密码太简单](https://so.toutiao.com/search?keyword=男子偷手机被抓吐槽失主密码太简单)
+1. [补壹刀：印度的七宗罪](https://so.toutiao.com/search?keyword=补壹刀：印度的七宗罪)
+1. [杨鸣发文：祝郭艾伦生日快乐](https://so.toutiao.com/search?keyword=杨鸣发文：祝郭艾伦生日快乐)
+1. [学生举报老师剽窃：不是抹黑学校](https://so.toutiao.com/search?keyword=学生举报老师剽窃：不是抹黑学校)
 1. [为何明星分手后不愿与前任同台](https://so.toutiao.com/search?keyword=为何明星分手后不愿与前任同台)
 1. [美国机构大举抢购中国互联网股票](https://so.toutiao.com/search?keyword=美国机构大举抢购中国互联网股票)
-1. [中行内蒙古分行原行长张凤槐被查](https://so.toutiao.com/search?keyword=中行内蒙古分行原行长张凤槐被查)
-1. [联合国糖尿病日](https://so.toutiao.com/search?keyword=联合国糖尿病日)
 1. [高铁奶茶上线了](https://so.toutiao.com/search?keyword=高铁奶茶上线了)
 1. [浙大博士和蜜橘商家的聊天记录火了](https://so.toutiao.com/search?keyword=浙大博士和蜜橘商家的聊天记录火了)
 1. [台湾海域4.8级地震 厦门等地有震感](https://so.toutiao.com/search?keyword=台湾海域4.8级地震+厦门等地有震感)
@@ -85,7 +87,6 @@
 1. [深圳将新增2个高铁站](https://so.toutiao.com/search?keyword=深圳将新增2个高铁站)
 1. [星空华文递表港交所](https://so.toutiao.com/search?keyword=星空华文递表港交所)
 1. [卫龙正式向港交所递交上市申请](https://so.toutiao.com/search?keyword=卫龙正式向港交所递交上市申请)
-1. [学生举报老师剽窃：不是抹黑学校](https://so.toutiao.com/search?keyword=学生举报老师剽窃：不是抹黑学校)
 <!-- END TOUTIAO -->
 
 历史归档 [./archives/toutiao-search](./archives/toutiao-search)
@@ -93,18 +94,18 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Nov 15 2021 03:06:53 GMT+0800 (China Standard Time) -->
-1. [醉驾找「yuwei」案宣判](https://www.zhihu.com/search?q=yuwei)
-1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
-1. [英雄联盟动画更新](https://www.zhihu.com/search?q=英雄联盟双城之战)
+<!-- 最后更新时间 Mon Nov 15 2021 04:08:42 GMT+0800 (China Standard Time) -->
 1. [凡人修仙传年番开播](https://www.zhihu.com/search?q=凡人修仙传)
 1. [扬名立万](https://www.zhihu.com/search?q=扬名立万)
-1. [吸入式新冠疫苗](https://www.zhihu.com/search?q=吸入式疫苗)
-1. [哈登 39+12 篮网胜鹈鹕](https://www.zhihu.com/search?q=篮网)
-1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
 1. [库里加冕 NBA 历史三分王](https://www.zhihu.com/search?q=库里)
+1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
 1. [布兰妮正式恢复自由](https://www.zhihu.com/search?q=布兰妮)
 1. [芝大枪杀案嫌犯落网](https://www.zhihu.com/search?q=芝大枪杀案)
+1. [哈登 39+12 篮网胜鹈鹕](https://www.zhihu.com/search?q=篮网)
+1. [醉驾找「yuwei」案宣判](https://www.zhihu.com/search?q=yuwei)
+1. [吸入式新冠疫苗](https://www.zhihu.com/search?q=吸入式疫苗)
+1. [英雄联盟动画更新](https://www.zhihu.com/search?q=英雄联盟双城之战)
+1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
 1. [中国女排颜妮退役](https://www.zhihu.com/search?q=颜妮)
 <!-- END ZHIHUSEARCH -->
 
@@ -113,7 +114,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Nov 15 2021 03:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 15 2021 04:08:42 GMT+0800 (China Standard Time) -->
 1. [你知道哪些过去 100 年里「说到做到」的故事？](https://www.zhihu.com/question/464242642)
 1. [河南 9 岁男童一提上学就发烧近 40℃，多次去医院检查都未发现病因，可能是什么原因造成的？](https://www.zhihu.com/question/498681974)
 1. [为什么有钱人家孩子一般长相都不错?](https://www.zhihu.com/question/432161909)
@@ -129,13 +130,13 @@
 1. [120 万元一针抗癌药通过初步形式审查，有望通过谈判进入医保目录，可能性有多大？将受到哪些因素影响？](https://www.zhihu.com/question/497938222)
 1. [如何评价国产动画《凡人修仙传》年番第 1 集到第 3 集？](https://www.zhihu.com/question/498404990)
 1. [所有的粒子都是无意识的，那它们堆积起来是怎么形成有意识的生命的？](https://www.zhihu.com/question/496339487)
-1. [如何看待巴拿马 2022 年起将中国春节定为全国性节日？这将带来哪些影响？](https://www.zhihu.com/question/498677828)
 1. [都说读法学即变相失业，真的吗？](https://www.zhihu.com/question/467410017)
 1. [程序员完全没时间提升自己怎么办？](https://www.zhihu.com/question/484187629)
+1. [如何看待巴拿马 2022 年起将中国春节定为全国性节日？这将带来哪些影响？](https://www.zhihu.com/question/498677828)
 1. [《盗墓笔记》讲了什么?](https://www.zhihu.com/question/32090742)
 1. [如何分辨INFJ和INFP?](https://www.zhihu.com/question/392280779)
-1. [联合国教科文组织官宣，淮安成第五个入选「世界美食之都」的中国城市，你认可吗？淮安有哪些好吃的美食？](https://www.zhihu.com/question/497655944)
 1. [为什么动画《英雄联盟：双城之战》中范德尔明明有号召黑巷的能力，却不愿意与皮城放手一战？](https://www.zhihu.com/question/497411755)
+1. [联合国教科文组织官宣，淮安成第五个入选「世界美食之都」的中国城市，你认可吗？淮安有哪些好吃的美食？](https://www.zhihu.com/question/497655944)
 1. [如何以「所有人来我这里都有所求，你求什么？」为开头，写一个故事？](https://www.zhihu.com/question/493004342)
 1. [《原神》为什么不在战斗环节设计更多与环境互动的要素呢？](https://www.zhihu.com/question/494304486)
 1. [看了《国王排名》漫画没看懂，反派的动机到底是什么？](https://www.zhihu.com/question/495733075)
@@ -148,25 +149,26 @@
 1. [参观博物馆为什么不能拍照？](https://www.zhihu.com/question/62378179)
 1. [肖八每套选择只能得34、5分，请问该怎么办？](https://www.zhihu.com/question/430045138)
 1. [为何今年「双11」喜报式实时成交额不见了？如何看待「双11」逐渐趋于理性消费？](https://www.zhihu.com/question/498180717)
-1. [为什么有的人明明很虚伪却感觉其人缘很好，而有的人明明很善良却感觉被孤立？](https://www.zhihu.com/question/40092699)
 1. [会在大学怀念高中的生活吗？](https://www.zhihu.com/question/497022564)
+1. [为什么有的人明明很虚伪却感觉其人缘很好，而有的人明明很善良却感觉被孤立？](https://www.zhihu.com/question/40092699)
 1. [如何评价2021年 CCPC 广州站？](https://www.zhihu.com/question/498681213)
 1. [22 岁女孩孟羽童入职格力成为董明珠秘书，你看好她的职业发展吗？她能成为第二个董明珠吗？](https://www.zhihu.com/question/492862535)
 1. [2021.11.13KPL 秋季赛重庆狼队0封广州TTG，如何评价这场比赛？](https://www.zhihu.com/question/498724676)
-1. [如何评价TWICE 11月12日发布的新歌《Scientist》及其MV？](https://www.zhihu.com/question/498373614)
 1. [购入iPad＋apple pencil但是又用回纸笔是什么体验？](https://www.zhihu.com/question/354858460)
+1. [如何评价TWICE 11月12日发布的新歌《Scientist》及其MV？](https://www.zhihu.com/question/498373614)
 1. [咖啡入门最基本的知识有什么？](https://www.zhihu.com/question/40318124)
 1. [为什么现在的人不喜欢打电话交流，更喜欢用软件交流？](https://www.zhihu.com/question/497503964)
 1. [能否以高等背景出一道高中数学题？](https://www.zhihu.com/question/495476558)
-1. [如何评价国产动画《斗破苍穹三年之约》（特别篇 3）第四集？](https://www.zhihu.com/question/498409859)
-1. [你家装修的哪些地方，是你入住之后觉得无比满意的？](https://www.zhihu.com/question/498751132)
 1. [你知道哪些关于约会的小技巧？](https://www.zhihu.com/question/357157180)
+1. [如何评价国产动画《斗破苍穹三年之约》（特别篇 3）第四集？](https://www.zhihu.com/question/498409859)
 1. [家中有猫，出门的时候总是一身猫毛怎么办？](https://www.zhihu.com/question/23836220)
+1. [本人现在初二天天不学习现在想努力了还能考上高中吗?](https://www.zhihu.com/question/494096172)
+1. [大家有什么简单方便的速食推荐？](https://www.zhihu.com/question/439194875)
 1. [艺术作品对于人类的意义究竟是什么？](https://www.zhihu.com/question/305767144)
+1. [你家装修的哪些地方，是你入住之后觉得无比满意的？](https://www.zhihu.com/question/498751132)
 1. [如何评价由杨幂、陈伟霆主演的电视剧《斛珠夫人》？](https://www.zhihu.com/question/498020859)
 1. [《舞千年》会是下一个文化综艺爆款吗？](https://www.zhihu.com/question/498547161)
 1. [你是从什么时候对中国足球丧失信心的?](https://www.zhihu.com/question/484361196)
-1. [大家有什么简单方便的速食推荐？](https://www.zhihu.com/question/439194875)
 1. [如何看待「股神」巴菲特踩雷新能源骗局，损失 22 亿？「股神」投资为何也会踩雷被骗？](https://www.zhihu.com/question/498381295)
 1. [如何看待好未来、学而思义务教育学科培训服务将于 12 月 31 日截止？公司将如何转型？](https://www.zhihu.com/question/498593904)
 1. [电影《扬名立万》中有哪些有意思的隐喻？](https://www.zhihu.com/question/497785483)
@@ -175,7 +177,6 @@
 1. [上班族天天吃外卖和自己做饭，哪个成本更高?](https://www.zhihu.com/question/486371644)
 1. [国足主帅李铁发文「微笑面对人生，努力工作是对自己的尊重 」，如何评价这一表态？](https://www.zhihu.com/question/498424419)
 1. [为什么那么多人喜欢吃猪头肉？](https://www.zhihu.com/question/497271153)
-1. [本人现在初二天天不学习现在想努力了还能考上高中吗?](https://www.zhihu.com/question/494096172)
 <!-- END ZHIHUQUESTIONS -->
 
 历史归档 [./archives/zhihu-questions](./archives/zhihu-questions)
@@ -183,7 +184,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Mon Nov 15 2021 03:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 15 2021 04:08:42 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -206,7 +207,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Nov 15 2021 03:06:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 15 2021 04:08:42 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
