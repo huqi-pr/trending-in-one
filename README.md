@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Nov 29 2021 02:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 29 2021 03:06:58 GMT+0800 (China Standard Time) -->
 1. [人民日报八论六中全会](https://so.toutiao.com/search?keyword=人民日报八论六中全会)
 1. [南非新疫情90%为奥密克戎所致](https://so.toutiao.com/search?keyword=南非新疫情90%为奥密克戎所致)
 1. [一组数字速读六中全会精神](https://so.toutiao.com/search?keyword=一组数字速读六中全会精神)
@@ -33,48 +33,50 @@
 1. [张文宏：中国能应对新毒株奥密克戎](https://so.toutiao.com/search?keyword=张文宏：中国能应对新毒株奥密克戎)
 1. [专家谈如何看新病毒带来的市场暴跌](https://so.toutiao.com/search?keyword=专家谈如何看新病毒带来的市场暴跌)
 1. [男篮世预赛中国33分大胜日本](https://so.toutiao.com/search?keyword=男篮世预赛中国33分大胜日本)
-1. [德国现疑似“奥密克戎”感染病例](https://so.toutiao.com/search?keyword=德国现疑似“奥密克戎”感染病例)
 1. [解放军运-20首次现身台空域](https://so.toutiao.com/search?keyword=解放军运-20首次现身台空域)
+1. [德国现疑似“奥密克戎”感染病例](https://so.toutiao.com/search?keyword=德国现疑似“奥密克戎”感染病例)
 1. [内蒙古满洲里新增19例确诊](https://so.toutiao.com/search?keyword=内蒙古满洲里新增19例确诊)
-1. [张镇麟对阵日本男篮8投6中砍下17分](https://so.toutiao.com/search?keyword=张镇麟对阵日本男篮8投6中砍下17分)
+1. [吴尊友谈南非变异毒株](https://so.toutiao.com/search?keyword=吴尊友谈南非变异毒株)
+1. [南财教师发侮辱同胞言论被调离岗位](https://so.toutiao.com/search?keyword=南财教师发侮辱同胞言论被调离岗位)
 1. [法甲：巴黎3-1圣埃蒂安 梅西3助攻](https://so.toutiao.com/search?keyword=法甲：巴黎3-1圣埃蒂安+梅西3助攻)
-1. [以色列将禁止所有外国人入境](https://so.toutiao.com/search?keyword=以色列将禁止所有外国人入境)
 1. [明星为何纷纷转型当主播](https://so.toutiao.com/search?keyword=明星为何纷纷转型当主播)
 1. [加拿大鹅处罚书撰写者找到了](https://so.toutiao.com/search?keyword=加拿大鹅处罚书撰写者找到了)
-1. [南财教师发侮辱同胞言论被调离岗位](https://so.toutiao.com/search?keyword=南财教师发侮辱同胞言论被调离岗位)
-1. [吴尊友谈南非变异毒株](https://so.toutiao.com/search?keyword=吴尊友谈南非变异毒株)
+1. [以色列将禁止所有外国人入境](https://so.toutiao.com/search?keyword=以色列将禁止所有外国人入境)
+1. [张镇麟对阵日本男篮8投6中砍下17分](https://so.toutiao.com/search?keyword=张镇麟对阵日本男篮8投6中砍下17分)
+1. [满洲里现疫情 国家卫健委派工作组](https://so.toutiao.com/search?keyword=满洲里现疫情+国家卫健委派工作组)
 1. [洗米华承认架设海外赌博平台](https://so.toutiao.com/search?keyword=洗米华承认架设海外赌博平台)
-1. [台军官误触机炮开关：随时可以发射](https://so.toutiao.com/search?keyword=台军官误触机炮开关：随时可以发射)
 1. [大衣哥儿媳陈亚男发长文恳求原谅](https://so.toutiao.com/search?keyword=大衣哥儿媳陈亚男发长文恳求原谅)
 1. [汪小菲向陈建州道歉](https://so.toutiao.com/search?keyword=汪小菲向陈建州道歉)
-1. [吉林逃犯被抓：语言不通雪天无处藏](https://so.toutiao.com/search?keyword=吉林逃犯被抓：语言不通雪天无处藏)
 1. [为何越来越多明星定居内地](https://so.toutiao.com/search?keyword=为何越来越多明星定居内地)
+1. [吉林逃犯被抓：语言不通雪天无处藏](https://so.toutiao.com/search?keyword=吉林逃犯被抓：语言不通雪天无处藏)
 1. [世乒赛美国队长爱吃臊子面](https://so.toutiao.com/search?keyword=世乒赛美国队长爱吃臊子面)
-1. [郑州怀八胞胎女子年仅18岁](https://so.toutiao.com/search?keyword=郑州怀八胞胎女子年仅18岁)
-1. [满洲里现疫情 国家卫健委派工作组](https://so.toutiao.com/search?keyword=满洲里现疫情+国家卫健委派工作组)
-1. [林高远/张安进混双半决赛锁定奖牌](https://so.toutiao.com/search?keyword=林高远/张安进混双半决赛锁定奖牌)
-1. [中国电子12月完成集团总部迁至深圳](https://so.toutiao.com/search?keyword=中国电子12月完成集团总部迁至深圳)
 1. [河南痛哭校长：20年供餐合同有瑕疵](https://so.toutiao.com/search?keyword=河南痛哭校长：20年供餐合同有瑕疵)
-1. [张庆伟当选湖南省委书记](https://so.toutiao.com/search?keyword=张庆伟当选湖南省委书记)
-1. [内蒙古满洲里一地升高风险](https://so.toutiao.com/search?keyword=内蒙古满洲里一地升高风险)
-1. [外媒：捷克总统任命新一届政府总理](https://so.toutiao.com/search?keyword=外媒：捷克总统任命新一届政府总理)
+1. [郑州怀八胞胎女子年仅18岁](https://so.toutiao.com/search?keyword=郑州怀八胞胎女子年仅18岁)
 1. [外卖员救人后耽误送餐 交警回复](https://so.toutiao.com/search?keyword=外卖员救人后耽误送餐+交警回复)
-1. [70后张迎春成全国最年轻女省委常委](https://so.toutiao.com/search?keyword=70后张迎春成全国最年轻女省委常委)
+1. [中国电子12月完成集团总部迁至深圳](https://so.toutiao.com/search?keyword=中国电子12月完成集团总部迁至深圳)
+1. [内蒙古满洲里一地升高风险](https://so.toutiao.com/search?keyword=内蒙古满洲里一地升高风险)
 1. [黑龙江讷河发现1例无症状感染者](https://so.toutiao.com/search?keyword=黑龙江讷河发现1例无症状感染者)
+1. [张庆伟当选湖南省委书记](https://so.toutiao.com/search?keyword=张庆伟当选湖南省委书记)
+1. [外媒：捷克总统任命新一届政府总理](https://so.toutiao.com/search?keyword=外媒：捷克总统任命新一届政府总理)
 1. [河南投车堵决口卡车即将被挖出](https://so.toutiao.com/search?keyword=河南投车堵决口卡车即将被挖出)
+1. [70后张迎春成全国最年轻女省委常委](https://so.toutiao.com/search?keyword=70后张迎春成全国最年轻女省委常委)
 1. [31省份平均工资出炉](https://so.toutiao.com/search?keyword=31省份平均工资出炉)
-1. [海南体罚学生副校长被行政拘留](https://so.toutiao.com/search?keyword=海南体罚学生副校长被行政拘留)
-1. [美团：承担救人遇难外卖员幼女生活费](https://so.toutiao.com/search?keyword=美团：承担救人遇难外卖员幼女生活费)
 1. [罕见银黑狐现身北京门头沟](https://so.toutiao.com/search?keyword=罕见银黑狐现身北京门头沟)
-1. [男子藏飞机起落架从危地马拉抵美国](https://so.toutiao.com/search?keyword=男子藏飞机起落架从危地马拉抵美国)
-1. [日本初中生商场楼顶抛下购物车](https://so.toutiao.com/search?keyword=日本初中生商场楼顶抛下购物车)
+1. [美团：承担救人遇难外卖员幼女生活费](https://so.toutiao.com/search?keyword=美团：承担救人遇难外卖员幼女生活费)
 1. [曝金球奖得主本人已得知获奖消息](https://so.toutiao.com/search?keyword=曝金球奖得主本人已得知获奖消息)
+1. [男子藏飞机起落架从危地马拉抵美国](https://so.toutiao.com/search?keyword=男子藏飞机起落架从危地马拉抵美国)
+1. [海南体罚学生副校长被行政拘留](https://so.toutiao.com/search?keyword=海南体罚学生副校长被行政拘留)
 1. [洗米华赌博平台每年盈利百亿](https://so.toutiao.com/search?keyword=洗米华赌博平台每年盈利百亿)
-1. [警方通报男子逃单自称认识交警队长](https://so.toutiao.com/search?keyword=警方通报男子逃单自称认识交警队长)
-1. [日本歌手鬼束千寻被逮捕](https://so.toutiao.com/search?keyword=日本歌手鬼束千寻被逮捕)
 1. [昂山素季被控煽动叛乱将迎首次判决](https://so.toutiao.com/search?keyword=昂山素季被控煽动叛乱将迎首次判决)
+1. [男子蹭吃婚宴还顺走五粮液被判半年](https://so.toutiao.com/search?keyword=男子蹭吃婚宴还顺走五粮液被判半年)
+1. [明年或将有近60名俄外交官离开美国](https://so.toutiao.com/search?keyword=明年或将有近60名俄外交官离开美国)
 1. [《当家主母》群演称猫被电死](https://so.toutiao.com/search?keyword=《当家主母》群演称猫被电死)
+1. [日本歌手鬼束千寻被逮捕](https://so.toutiao.com/search?keyword=日本歌手鬼束千寻被逮捕)
+1. [警方通报男子逃单自称认识交警队长](https://so.toutiao.com/search?keyword=警方通报男子逃单自称认识交警队长)
 1. [我国自主培育白羽肉鸡打破国外垄断](https://so.toutiao.com/search?keyword=我国自主培育白羽肉鸡打破国外垄断)
+1. [日本初中生商场楼顶抛下购物车](https://so.toutiao.com/search?keyword=日本初中生商场楼顶抛下购物车)
+1. [台军官误触机炮开关：随时可以发射](https://so.toutiao.com/search?keyword=台军官误触机炮开关：随时可以发射)
+1. [林高远/张安进混双半决赛锁定奖牌](https://so.toutiao.com/search?keyword=林高远/张安进混双半决赛锁定奖牌)
 1. [梁靖崑超级大逆转晋级男单4强](https://so.toutiao.com/search?keyword=梁靖崑超级大逆转晋级男单4强)
 1. [秘鲁北部发生7.3级地震](https://so.toutiao.com/search?keyword=秘鲁北部发生7.3级地震)
 1. [王者荣耀KPL：XYG战队3-0击败GK](https://so.toutiao.com/search?keyword=王者荣耀KPL：XYG战队3-0击败GK)
@@ -88,17 +90,19 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Nov 29 2021 02:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 29 2021 03:06:58 GMT+0800 (China Standard Time) -->
+1. [郑州怀八胞胎女子仅 18 岁](https://www.zhihu.com/search?q=郑州八胞胎)
 1. [吉林越狱逃犯朱贤健被抓](https://www.zhihu.com/search?q=朱贤健)
-1. [2022 国考](https://www.zhihu.com/search?q=国考)
+1. [香港两人感染 Omicron 变异株](https://www.zhihu.com/search?q=Omicron)
 1. [一人之下 4 更新](https://www.zhihu.com/search?q=一人之下4)
-1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 1. [世乒赛王曼昱跨国混双出局](https://www.zhihu.com/search?q=世乒赛混双)
 1. [河南再通报「营养餐致学生呕吐」](https://www.zhihu.com/search?q=河南营养餐)
 1. [世卫将新型变异毒株命名为 Omicron](https://www.zhihu.com/search?q=新型变异毒株)
 1. [内蒙疫情](https://www.zhihu.com/search?q=内蒙疫情)
 1. [中国男篮轻取日本](https://www.zhihu.com/search?q=中国男篮)
 1. [库里 32 分勇士 6 连胜](https://www.zhihu.com/search?q=勇士)
+1. [2022 国考](https://www.zhihu.com/search?q=国考)
+1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 1. [太阳克篮网取 16 连胜](https://www.zhihu.com/search?q=太阳)
 1. [凡人修仙传年番更新 ](https://www.zhihu.com/search?q=凡人修仙传)
 1. [茶颜悦色起诉茶颜观色](https://www.zhihu.com/search?q=茶颜悦色)
@@ -109,28 +113,30 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Nov 29 2021 02:09:43 GMT+0800 (China Standard Time) -->
-1. [新变异株 Omicron 11 月初已出现，专家称各国旅行禁令恐「为时已晚」，对全球疫情会有哪些影响？](https://www.zhihu.com/question/502042061)
+<!-- 最后更新时间 Mon Nov 29 2021 03:06:58 GMT+0800 (China Standard Time) -->
 1. [张静初陶虹舒淇倡导吃素遭网友嘲讽，对此事你怎么看？你认为吃素食真的对身体有好处吗？](https://www.zhihu.com/question/501911082)
+1. [新变异株 Omicron 11 月初已出现，专家称各国旅行禁令恐「为时已晚」，对全球疫情会有哪些影响？](https://www.zhihu.com/question/502042061)
 1. [于正电视剧《当家主母》里的那只猫真的被毒死了吗？](https://www.zhihu.com/question/501690881)
 1. [郑州怀八胞胎女子仅 18 岁，其丈夫确认曾打过促排卵针，促排卵针是什么原理？对身体有危害吗？](https://www.zhihu.com/question/502126419)
 1. [所罗门群岛总理称「与中国大陆建交后，外部势力怂恿我国暴徒制造骚乱」，有哪些信息值得关注？](https://www.zhihu.com/question/501811294)
 1. [《梦想改造家》建筑师陶磊住房被指违建，镇城管称「已前往测绘」，如果情况属实他会面临哪些责任？](https://www.zhihu.com/question/500878603)
-1. [目前中国影史票房前五三部有吴京，吴京为什么能成为「票房密码」？](https://www.zhihu.com/question/501197748)
 1. [土耳其总统反向操作，坚持降息对抗通胀，近期里拉大贬值，一周暴跌 20%，苹果暂停该地区销售，你怎么看？](https://www.zhihu.com/question/501178367)
 1. [如何评价华为天才少年钟钊团队成功开启了 AutoML 大规模商用的先河？什么是 AutoML？](https://www.zhihu.com/question/501845921)
-1. [为什么有城市叫“北京”“南京”“东京”而没有城市叫“西京”呢？](https://www.zhihu.com/question/39743292)
 1. [水浒里，西门庆为什么不给武大郎一笔钱，买下潘金莲做长久夫妻，而要害了武大性命？](https://www.zhihu.com/question/492755627)
 1. [11 月 25 日杭州新增两例新冠肺炎无症状感染者，其中一人为浙大教职工，还有哪些信息值得关注？](https://www.zhihu.com/question/501588574)
 1. [学生因被困酒店厕所 16 小时错过专升本考试索赔 13 万，此次事件中酒店该承担哪些责任？](https://www.zhihu.com/question/500837857)
+1. [如何评价林俊杰 11 月 28 日举行的「After the Rain」线上演唱会？](https://www.zhihu.com/question/502262206)
 1. [中国驻立陶宛大使馆表示「大使馆因技术原因，领事业务自 11 月 25 日起暂停」，这透露了什么信号？](https://www.zhihu.com/question/501612815)
+1. [为什么有城市叫“北京”“南京”“东京”而没有城市叫“西京”呢？](https://www.zhihu.com/question/39743292)
 1. [如何评价香草社游戏《十三机兵防卫圈》登录 Nintendo Switch？这意味着什么？](https://www.zhihu.com/question/502270782)
+1. [有没有男主是医生的言情小说？](https://www.zhihu.com/question/370530816)
+1. [目前中国影史票房前五三部有吴京，吴京为什么能成为「票房密码」？](https://www.zhihu.com/question/501197748)
 1. [如何看待中科大 5 名学生凌晨两点半发现实验室漏水，处置后被奖励 12 万元？科研人经常熬夜工作吗？](https://www.zhihu.com/question/501465611)
 1. [四大被delay该走吗?](https://www.zhihu.com/question/344621505)
 1. [美国通货膨胀严重，最后一家一元店涨价，再无一元商品售卖，目前美国社会情况如何？反映了哪些问题？](https://www.zhihu.com/question/501457805)
-1. [有哪些适合官宣的文案分享？](https://www.zhihu.com/question/479649851)
-1. [《甄嬛传》中的果郡王为什么不讨喜呢？换演员会好点吗？](https://www.zhihu.com/question/499278485)
 1. [吉林越狱逃犯朱贤健被抓，历时 1 个多月，他将面临哪些法律责任？](https://www.zhihu.com/question/502167457)
+1. [《甄嬛传》中的果郡王为什么不讨喜呢？换演员会好点吗？](https://www.zhihu.com/question/499278485)
+1. [有哪些适合官宣的文案分享？](https://www.zhihu.com/question/479649851)
 1. [如何看待衡水高新区建设局工作人员辱骂政务热线和居民「12345 能办什么事，打的人基本上都是废了」？](https://www.zhihu.com/question/501356830)
 1. [陕西潼关肉夹馍协会官网疑似被黑客攻击，黑底绿字「无良协会」飘屏，具体情况如何？反映了哪些问题？](https://www.zhihu.com/question/501213997)
 1. [如何备考雅思？](https://www.zhihu.com/question/26400817)
@@ -145,9 +151,9 @@
 1. [螺蛳粉品牌「好欢螺」回应顾客吃到虫卵称「商业诋毁时有发生，将核查依法维权」，若属实造谣者会面临什么？](https://www.zhihu.com/question/502150333)
 1. [动画《英雄联盟双城之战》中金克斯和艾克的单挑中最后为什么要丢手雷自杀？](https://www.zhihu.com/question/500422318)
 1. [动画《新秦时明月》开播，你感觉如何？](https://www.zhihu.com/question/501068047)
-1. [如何看待老人「怕忘记又怕孩子对存款有想法」将存折密码告诉保姆后被盗118万？有哪些信息值得关注？](https://www.zhihu.com/question/501393478)
 1. [博物馆的存在有什么意义？为什么家长总是喜欢带孩子去博物馆参观？](https://www.zhihu.com/question/499700904)
-1. [2022 国考行测难度咋样？](https://www.zhihu.com/question/502127271)
+1. [如何看待老人「怕忘记又怕孩子对存款有想法」将存折密码告诉保姆后被盗118万？有哪些信息值得关注？](https://www.zhihu.com/question/501393478)
+1. [2022 国考申论难度怎么样？](https://www.zhihu.com/question/502127458)
 1. [如何评价休斯顿樊振东王楚钦休斯顿男单八强比赛?](https://www.zhihu.com/question/501960551)
 1. [国家林草局回应「野猪致害」问题，将逐步从根本上解决，野猪频繁出没的原因是什么？](https://www.zhihu.com/question/501581372)
 1. [姚明在男篮上的改革算失败还是成功？](https://www.zhihu.com/question/455538258)
@@ -158,9 +164,9 @@
 1. [明年 3 月 1 日起微信、支付宝个人收款码不能用于经营收款，将带来哪些影响？](https://www.zhihu.com/question/501704753)
 1. [如何评价 10 月新番动画《国王排名》第七集？](https://www.zhihu.com/question/501562383)
 1. [如何评价国产动画《凡人修仙传》年番第五集？](https://www.zhihu.com/question/501711317)
+1. [2022 国考行测难度咋样？](https://www.zhihu.com/question/502127271)
 1. [C/C++该采用怎样的命名规则才能让自己的代码足够清晰呢？](https://www.zhihu.com/question/31498049)
 1. [河南一中学多名学生吃营养餐后集体呕吐腹泻，校长回应痛哭原因「不理解配餐为啥不能停」，后续将如何发展？](https://www.zhihu.com/question/502201295)
-1. [2022 国考申论难度怎么样？](https://www.zhihu.com/question/502127458)
 1. [河南营养餐学生呕吐涉事企业称校长曾与另一企业签 20 年合同，违约需赔付 3 倍投资金，真实情况如何？](https://www.zhihu.com/question/502046403)
 1. [如何评价美剧《鹰眼》第一集和第二集？](https://www.zhihu.com/question/501227929)
 1. [对于中年人来说，哪些渠道比较好找工作？](https://www.zhihu.com/question/501060050)
@@ -174,7 +180,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Mon Nov 29 2021 02:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 29 2021 03:06:58 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -197,7 +203,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Nov 29 2021 02:09:43 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Nov 29 2021 03:06:58 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
