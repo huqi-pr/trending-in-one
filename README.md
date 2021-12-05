@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Mon Dec 06 2021 04:09:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 06 2021 05:07:47 GMT+0800 (China Standard Time) -->
 1. [十九届六中全会公报](https://so.toutiao.com/search?keyword=十九届六中全会公报)
 1. [人民日报八论六中全会](https://so.toutiao.com/search?keyword=人民日报八论六中全会)
 1. [立陶宛外长：没法单独“制裁”中国](https://so.toutiao.com/search?keyword=立陶宛外长：没法单独“制裁”中国)
@@ -35,46 +35,49 @@
 1. [演员李志舆因病去世](https://so.toutiao.com/search?keyword=演员李志舆因病去世)
 1. [缉毒警察不幸牺牲 公安部：全力缉凶](https://so.toutiao.com/search?keyword=缉毒警察不幸牺牲+公安部：全力缉凶)
 1. [张同学爆火：农村视频成流量密码](https://so.toutiao.com/search?keyword=张同学爆火：农村视频成流量密码)
-1. [王艺迪晋级世界杯女单四强将战陈梦](https://so.toutiao.com/search?keyword=王艺迪晋级世界杯女单四强将战陈梦)
 1. [王楚钦晋级4强 半决赛将对阵樊振东](https://so.toutiao.com/search?keyword=王楚钦晋级4强+半决赛将对阵樊振东)
+1. [王艺迪晋级世界杯女单四强将战陈梦](https://so.toutiao.com/search?keyword=王艺迪晋级世界杯女单四强将战陈梦)
 1. [男子因女司机未让路狂扇她老公耳光](https://so.toutiao.com/search?keyword=男子因女司机未让路狂扇她老公耳光)
 1. [当上非洲酋长的河南小伙已回国](https://so.toutiao.com/search?keyword=当上非洲酋长的河南小伙已回国)
 1. [中老铁路通车仪式大片](https://so.toutiao.com/search?keyword=中老铁路通车仪式大片)
 1. [韩国人造太阳持续运行30秒](https://so.toutiao.com/search?keyword=韩国人造太阳持续运行30秒)
 1. [经济学家儿子坠亡：遗憾没走入内心](https://so.toutiao.com/search?keyword=经济学家儿子坠亡：遗憾没走入内心)
-1. [满洲里第七轮核检已检出阳性47例](https://so.toutiao.com/search?keyword=满洲里第七轮核检已检出阳性47例)
 1. [非双一流毕业想进大厂有多难](https://so.toutiao.com/search?keyword=非双一流毕业想进大厂有多难)
 1. [2022年个税专项附加扣除开始确认](https://so.toutiao.com/search?keyword=2022年个税专项附加扣除开始确认)
+1. [空军首任司令员刘亚楼夫人翟云英逝世](https://so.toutiao.com/search?keyword=空军首任司令员刘亚楼夫人翟云英逝世)
 1. [成奎安孙子成俊贤车祸去世](https://so.toutiao.com/search?keyword=成奎安孙子成俊贤车祸去世)
 1. [李冰冰宋佳等众星悼念恩师李志舆](https://so.toutiao.com/search?keyword=李冰冰宋佳等众星悼念恩师李志舆)
 1. [林高远无缘WTT世界杯决赛男单8强](https://so.toutiao.com/search?keyword=林高远无缘WTT世界杯决赛男单8强)
 1. [葛优回应给群演让座：心疼他们](https://so.toutiao.com/search?keyword=葛优回应给群演让座：心疼他们)
 1. [福建安溪暂停一切线下教育教学活动](https://so.toutiao.com/search?keyword=福建安溪暂停一切线下教育教学活动)
-1. [空军首任司令员刘亚楼夫人翟云英逝世](https://so.toutiao.com/search?keyword=空军首任司令员刘亚楼夫人翟云英逝世)
-1. [女子办假身份证改小11岁被处罚](https://so.toutiao.com/search?keyword=女子办假身份证改小11岁被处罚)
 1. [居民遛狗吓到小孩扬言狗比娃金贵](https://so.toutiao.com/search?keyword=居民遛狗吓到小孩扬言狗比娃金贵)
-1. [张本智和晋级WTT世界杯决赛男单8强](https://so.toutiao.com/search?keyword=张本智和晋级WTT世界杯决赛男单8强)
 1. [证监会：推动在美中企退市系误读](https://so.toutiao.com/search?keyword=证监会：推动在美中企退市系误读)
-1. [员工主动辞职未批后遭辞退获赔51万](https://so.toutiao.com/search?keyword=员工主动辞职未批后遭辞退获赔51万)
+1. [女子办假身份证改小11岁被处罚](https://so.toutiao.com/search?keyword=女子办假身份证改小11岁被处罚)
 1. [满洲里近百名师生相继确诊](https://so.toutiao.com/search?keyword=满洲里近百名师生相继确诊)
-1. [王曼昱谈一轮游：打得太保守](https://so.toutiao.com/search?keyword=王曼昱谈一轮游：打得太保守)
-1. [南非华人患奥密克戎：低烧已退](https://so.toutiao.com/search?keyword=南非华人患奥密克戎：低烧已退)
-1. [八旬老人取快递猝死 家属索赔50万](https://so.toutiao.com/search?keyword=八旬老人取快递猝死+家属索赔50万)
-1. [呼伦贝尔4名干部防疫不力被通报](https://so.toutiao.com/search?keyword=呼伦贝尔4名干部防疫不力被通报)
-1. [转运密接者滞后 公安副局长被免](https://so.toutiao.com/search?keyword=转运密接者滞后+公安副局长被免)
-1. [张同学称自己初中未毕业](https://so.toutiao.com/search?keyword=张同学称自己初中未毕业)
-1. [安徽潜山8死车祸：司机突发脑溢血](https://so.toutiao.com/search?keyword=安徽潜山8死车祸：司机突发脑溢血)
-1. [大衣哥现身商演](https://so.toutiao.com/search?keyword=大衣哥现身商演)
-1. [外媒：美军最高层出现新冠疫情](https://so.toutiao.com/search?keyword=外媒：美军最高层出现新冠疫情)
-1. [IMF：美国通胀率达31年来最高水平](https://so.toutiao.com/search?keyword=IMF：美国通胀率达31年来最高水平)
 1. [哈尔滨昨增本土确诊10例](https://so.toutiao.com/search?keyword=哈尔滨昨增本土确诊10例)
+1. [呼伦贝尔4名干部防疫不力被通报](https://so.toutiao.com/search?keyword=呼伦贝尔4名干部防疫不力被通报)
+1. [南非华人患奥密克戎：低烧已退](https://so.toutiao.com/search?keyword=南非华人患奥密克戎：低烧已退)
+1. [外媒：美军最高层出现新冠疫情](https://so.toutiao.com/search?keyword=外媒：美军最高层出现新冠疫情)
+1. [八旬老人取快递猝死 家属索赔50万](https://so.toutiao.com/search?keyword=八旬老人取快递猝死+家属索赔50万)
+1. [转运密接者滞后 公安副局长被免](https://so.toutiao.com/search?keyword=转运密接者滞后+公安副局长被免)
+1. [王曼昱谈一轮游：打得太保守](https://so.toutiao.com/search?keyword=王曼昱谈一轮游：打得太保守)
+1. [大衣哥现身商演](https://so.toutiao.com/search?keyword=大衣哥现身商演)
+1. [员工主动辞职未批后遭辞退获赔51万](https://so.toutiao.com/search?keyword=员工主动辞职未批后遭辞退获赔51万)
+1. [满洲里疫情系境外病毒一次新的输入](https://so.toutiao.com/search?keyword=满洲里疫情系境外病毒一次新的输入)
+1. [IMF：美国通胀率达31年来最高水平](https://so.toutiao.com/search?keyword=IMF：美国通胀率达31年来最高水平)
+1. [湖南一小轿车冲上公交站台致1死7伤](https://so.toutiao.com/search?keyword=湖南一小轿车冲上公交站台致1死7伤)
+1. [安徽潜山8死车祸：司机突发脑溢血](https://so.toutiao.com/search?keyword=安徽潜山8死车祸：司机突发脑溢血)
+1. [南非进入第四波新冠疫情高峰](https://so.toutiao.com/search?keyword=南非进入第四波新冠疫情高峰)
+1. [鼎胜新材副总经理边慧娟辞职](https://so.toutiao.com/search?keyword=鼎胜新材副总经理边慧娟辞职)
+1. [张同学称自己初中未毕业](https://so.toutiao.com/search?keyword=张同学称自己初中未毕业)
+1. [小红书回应被曝存未成年人性暗示](https://so.toutiao.com/search?keyword=小红书回应被曝存未成年人性暗示)
 1. [女孩晒农村婚宴被吐槽环境差](https://so.toutiao.com/search?keyword=女孩晒农村婚宴被吐槽环境差)
 1. [女子9楼坠落抓住7楼防护窗捡回一命](https://so.toutiao.com/search?keyword=女子9楼坠落抓住7楼防护窗捡回一命)
-1. [鼎胜新材副总经理边慧娟辞职](https://so.toutiao.com/search?keyword=鼎胜新材副总经理边慧娟辞职)
-1. [小红书回应被曝存未成年人性暗示](https://so.toutiao.com/search?keyword=小红书回应被曝存未成年人性暗示)
+1. [哈尔滨：餐饮单位暂停堂食](https://so.toutiao.com/search?keyword=哈尔滨：餐饮单位暂停堂食)
+1. [贵州茅台员工去年人均年薪30.1万元](https://so.toutiao.com/search?keyword=贵州茅台员工去年人均年薪30.1万元)
+1. [满洲里第七轮核检已检出阳性47例](https://so.toutiao.com/search?keyword=满洲里第七轮核检已检出阳性47例)
+1. [张本智和晋级WTT世界杯决赛男单8强](https://so.toutiao.com/search?keyword=张本智和晋级WTT世界杯决赛男单8强)
 1. [日本爱子公主满20岁成人礼](https://so.toutiao.com/search?keyword=日本爱子公主满20岁成人礼)
-1. [湖南一小轿车冲上公交站台致1死7伤](https://so.toutiao.com/search?keyword=湖南一小轿车冲上公交站台致1死7伤)
-1. [南非进入第四波新冠疫情高峰](https://so.toutiao.com/search?keyword=南非进入第四波新冠疫情高峰)
 1. [孙颖莎晋级WTT世界杯决赛女单八强](https://so.toutiao.com/search?keyword=孙颖莎晋级WTT世界杯决赛女单八强)
 1. [医保谈判代表是如何选出来的](https://so.toutiao.com/search?keyword=医保谈判代表是如何选出来的)
 1. [我国新冠抗体新药获世界性认可](https://so.toutiao.com/search?keyword=我国新冠抗体新药获世界性认可)
@@ -91,7 +94,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Mon Dec 06 2021 04:09:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 06 2021 05:07:47 GMT+0800 (China Standard Time) -->
 1. [中概股暴跌](https://www.zhihu.com/search?q=中概股)
 1. [斗破苍穹三年之约更新](https://www.zhihu.com/search?q=斗破苍穹三年之约)
 1. [凡人修仙传年番更新](https://www.zhihu.com/search?q=凡人修仙传)
@@ -111,45 +114,46 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Mon Dec 06 2021 04:09:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 06 2021 05:07:47 GMT+0800 (China Standard Time) -->
 1. [立陶宛外交部长回应所谓的「中国海关系统移除立陶宛」事件时称希望欧盟出面制裁中国，对此欧盟将如何应对？](https://www.zhihu.com/question/503832443)
-1. [能力不如我的同学，秋招拿到了60w+的offer，心里非常难受是怎么回事？](https://www.zhihu.com/question/496689201)
 1. [生命已经这么短了，为什么大多数人还是流于世俗而不追求真正想要的？](https://www.zhihu.com/question/503742560)
-1. [达利欧警告美国或爆发内战，10 年内爆发内战可能性为 30%，这是怎么回事？](https://www.zhihu.com/question/503353740)
 1. [如何看待情侣吵架「男子将女友头按进火锅内，报警后女子却不愿透露男友身份」？从心理学怎样解释?](https://www.zhihu.com/question/503540305)
 1. [「中老昆万」铁路 12 月 3 日开通，多趟列车票已抢光，该铁路为何未开先火，都途经了哪些重要景点？](https://www.zhihu.com/question/503155005)
+1. [达利欧警告美国或爆发内战，10 年内爆发内战可能性为 30%，这是怎么回事？](https://www.zhihu.com/question/503353740)
+1. [能力不如我的同学，秋招拿到了60w+的offer，心里非常难受是怎么回事？](https://www.zhihu.com/question/496689201)
 1. [如何回答孩子「为什么羽绒服都是一节一节或者一块一块的」？](https://www.zhihu.com/question/501379124)
 1. [如何看待中国游戏公司在海外成立工作室，招募海外AAA人才？](https://www.zhihu.com/question/503276127)
 1. [南京一员工主动辞职未获回应后又遭辞退诉讼获赔 51 万，如何从法律角度解读？](https://www.zhihu.com/question/503811254)
-1. [有哪些令人浑身发抖的故事?](https://www.zhihu.com/question/383898140)
-1. [社保没有缴够十五年就到了，退休年龄怎么办?](https://www.zhihu.com/question/497811753)
 1. [你认为史上最霸气的诗句是哪句？谁写的？](https://www.zhihu.com/question/500694535)
-1. [为什么越来越多年轻人喜欢买免洗破壁机，是因为精致还是懒？](https://www.zhihu.com/question/503644683)
+1. [有哪些令人浑身发抖的故事?](https://www.zhihu.com/question/383898140)
 1. [为什么《秦时明月》可以让主角团掉线 8 年？](https://www.zhihu.com/question/502736468)
 1. [有什么可以当做座右铭的古诗词？](https://www.zhihu.com/question/457346008)
 1. [怎样可以让金钏活下来？](https://www.zhihu.com/question/405796002)
-1. [伴侣怎么做能让INFJ感到幸福?](https://www.zhihu.com/question/486421104)
+1. [为什么《一年一度喜剧大赛》要淘汰吕严？](https://www.zhihu.com/question/503532136)
+1. [为什么越来越多年轻人喜欢买免洗破壁机，是因为精致还是懒？](https://www.zhihu.com/question/503644683)
 1. [如何评价陈建斌、梅婷、涂松岩主演的电视剧《不惑之旅》？](https://www.zhihu.com/question/499091340)
+1. [伴侣怎么做能让INFJ感到幸福?](https://www.zhihu.com/question/486421104)
 1. [钻石真的很值钱吗？](https://www.zhihu.com/question/497618104)
 1. [有什么小众又高级的香水适合送礼吗？](https://www.zhihu.com/question/499115500)
 1. [如何评价电影《不老奇事》?](https://www.zhihu.com/question/320013583)
 1. [如何以「我的白月光的白月光喜欢的人是我」为开头写一篇小说？](https://www.zhihu.com/question/495710636)
+1. [社保没有缴够十五年就到了，退休年龄怎么办?](https://www.zhihu.com/question/497811753)
+1. [自己的孩子不听话，思想教育无果，你会动手打吗？](https://www.zhihu.com/question/497391023)
 1. [特斯拉市值一夜蒸发 700 亿美元，马斯克一个月套现 109 亿美元，如何解读马斯克的行为？](https://www.zhihu.com/question/503609465)
 1. [女孩住酒店发现顶灯藏有摄像头，酒店应该为偷拍摄像头负责吗？住酒店如何保护好自身隐私安全？](https://www.zhihu.com/question/499338019)
-1. [孕晚期还在上班的小孕妇应该注意哪些事情？](https://www.zhihu.com/question/425923462)
-1. [自己的孩子不听话，思想教育无果，你会动手打吗？](https://www.zhihu.com/question/497391023)
 1. [在家乡的路边摊买东西到底该说方言还是普通话？](https://www.zhihu.com/question/494191326)
+1. [孕晚期还在上班的小孕妇应该注意哪些事情？](https://www.zhihu.com/question/425923462)
 1. [电视剧《斛珠夫人》有哪些槽点？](https://www.zhihu.com/question/497693983)
 1. [当当平台原价 669 元图书打折卖 210 元，书上定价 3.6 元，客服称是绝版书，这种价格合理吗？](https://www.zhihu.com/question/503579338)
-1. [哪款电动牙刷值得被推荐？](https://www.zhihu.com/question/24523409)
 1. [如何评价 12 月 4 日正式发布的小米 27 英寸 4K 专业显示器？](https://www.zhihu.com/question/503571810)
+1. [哪款电动牙刷值得被推荐？](https://www.zhihu.com/question/24523409)
 1. [有没有适合姐妹聚会的文案？](https://www.zhihu.com/question/472963716)
 1. [碳排放管理师有用吗？已经考了怕后期没用怎么办？](https://www.zhihu.com/question/497206058)
 1. [有哪些轻量级适合阅读的优秀 C++ 开源项目？](https://www.zhihu.com/question/40131963)
 1. [《JOJO》为何大家总说空条承太郎无敌?](https://www.zhihu.com/question/438080710)
 1. [离了婚的女人都过得咋样了？](https://www.zhihu.com/question/300013955)
-1. [如果每年都有纯收入20万，那么你还会继续上班吗？](https://www.zhihu.com/question/493008756)
 1. [有什么非常惊艳的花名？](https://www.zhihu.com/question/266614098)
+1. [如果每年都有纯收入20万，那么你还会继续上班吗？](https://www.zhihu.com/question/493008756)
 1. [一直很热闹的数据库领域，有哪些事情让你感觉眼前一亮？](https://www.zhihu.com/question/503470930)
 1. [社会教育和家庭教育哪个更重要？](https://www.zhihu.com/question/499040926)
 1. [资料分析做的很慢怎么办？最快都是一篇五道题9分多钟，最慢15分钟？](https://www.zhihu.com/question/489946720)
@@ -197,7 +201,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Mon Dec 06 2021 04:09:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 06 2021 05:07:47 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -220,7 +224,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Mon Dec 06 2021 04:09:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 06 2021 05:07:47 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
