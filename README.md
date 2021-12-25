@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sun Dec 26 2021 04:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 26 2021 05:07:44 GMT+0800 (China Standard Time) -->
 1. [美赴华航班途中返航 中使馆提醒](https://so.toutiao.com/search?keyword=美赴华航班途中返航+中使馆提醒)
 1. [警方通报火锅吃出避孕套：顾客放入](https://so.toutiao.com/search?keyword=警方通报火锅吃出避孕套：顾客放入)
 1. [马兴瑞掌舵新疆 此前任广东省长](https://so.toutiao.com/search?keyword=马兴瑞掌舵新疆+此前任广东省长)
@@ -33,45 +33,51 @@
 1. [457万人考研是什么概念](https://so.toutiao.com/search?keyword=457万人考研是什么概念)
 1. [玉兔二号将逼近月球神秘小屋](https://so.toutiao.com/search?keyword=玉兔二号将逼近月球神秘小屋)
 1. [文在寅特赦朴槿惠的真正目的是什么](https://so.toutiao.com/search?keyword=文在寅特赦朴槿惠的真正目的是什么)
-1. [王伟中任广东省政府党组书记](https://so.toutiao.com/search?keyword=王伟中任广东省政府党组书记)
+1. [胡衡华任重庆市委副书记](https://so.toutiao.com/search?keyword=胡衡华任重庆市委副书记)
 1. [耗资百亿的韦伯望远镜发射成功](https://so.toutiao.com/search?keyword=耗资百亿的韦伯望远镜发射成功)
 1. [9岁男孩每天约36岁球友打球](https://so.toutiao.com/search?keyword=9岁男孩每天约36岁球友打球)
 1. [张卫健谈《怀念战友》：唱到心里去](https://so.toutiao.com/search?keyword=张卫健谈《怀念战友》：唱到心里去)
-1. [胡衡华任重庆市委副书记](https://so.toutiao.com/search?keyword=胡衡华任重庆市委副书记)
+1. [王伟中任广东省政府党组书记](https://so.toutiao.com/search?keyword=王伟中任广东省政府党组书记)
 1. [常州特斯拉坠河夫妻双双遇难](https://so.toutiao.com/search?keyword=常州特斯拉坠河夫妻双双遇难)
 1. [央媒评分包商赖账不还：底气谁给的](https://so.toutiao.com/search?keyword=央媒评分包商赖账不还：底气谁给的)
 1. [日本首相向美方提出“严厉抗议”](https://so.toutiao.com/search?keyword=日本首相向美方提出“严厉抗议”)
-1. [朴槿惠获释后将无家可归](https://so.toutiao.com/search?keyword=朴槿惠获释后将无家可归)
 1. [西安一个人的考研考场](https://so.toutiao.com/search?keyword=西安一个人的考研考场)
 1. [西安本轮首例确诊者称被造谣寒心](https://so.toutiao.com/search?keyword=西安本轮首例确诊者称被造谣寒心)
+1. [朴槿惠获释后将无家可归](https://so.toutiao.com/search?keyword=朴槿惠获释后将无家可归)
 1. [制片李佳临：宋小宝爱用贾玲表情包](https://so.toutiao.com/search?keyword=制片李佳临：宋小宝爱用贾玲表情包)
 1. [明星们过圣诞节有哪些趣事](https://so.toutiao.com/search?keyword=明星们过圣诞节有哪些趣事)
-1. [一家四口确诊的昆明病例发声](https://so.toutiao.com/search?keyword=一家四口确诊的昆明病例发声)
 1. [中国研究生招生规模10年增长一倍](https://so.toutiao.com/search?keyword=中国研究生招生规模10年增长一倍)
+1. [一家四口确诊的昆明病例发声](https://so.toutiao.com/search?keyword=一家四口确诊的昆明病例发声)
+1. [本轮疫情波及14省17市](https://so.toutiao.com/search?keyword=本轮疫情波及14省17市)
+1. [青岛新援巴杜：球队锋线有所欠缺](https://so.toutiao.com/search?keyword=青岛新援巴杜：球队锋线有所欠缺)
+1. [中国儿艺《极简创造》首演完成](https://so.toutiao.com/search?keyword=中国儿艺《极简创造》首演完成)
+1. [英特尔i5-12400评测出炉](https://so.toutiao.com/search?keyword=英特尔i5-12400评测出炉)
 1. [张伯礼谈西安疫情：基层防控大意了](https://so.toutiao.com/search?keyword=张伯礼谈西安疫情：基层防控大意了)
+1. [罗志祥跨年复出被投诉](https://so.toutiao.com/search?keyword=罗志祥跨年复出被投诉)
 1. [印度战斗机坠毁1名飞行员遇难](https://so.toutiao.com/search?keyword=印度战斗机坠毁1名飞行员遇难)
+1. [伊朗同意斯里兰卡用茶叶还石油债务](https://so.toutiao.com/search?keyword=伊朗同意斯里兰卡用茶叶还石油债务)
+1. [林书豪回归首秀23分 首钢大胜辽篮](https://so.toutiao.com/search?keyword=林书豪回归首秀23分+首钢大胜辽篮)
 1. [外籍男子称防疫人员疯子 家属致歉](https://so.toutiao.com/search?keyword=外籍男子称防疫人员疯子+家属致歉)
 1. [印度新冠死亡人数恐超官方统计12倍](https://so.toutiao.com/search?keyword=印度新冠死亡人数恐超官方统计12倍)
-1. [本轮疫情波及14省17市](https://so.toutiao.com/search?keyword=本轮疫情波及14省17市)
-1. [林书豪回归首秀23分 首钢大胜辽篮](https://so.toutiao.com/search?keyword=林书豪回归首秀23分+首钢大胜辽篮)
-1. [台湾歌手包小柏爱女病逝](https://so.toutiao.com/search?keyword=台湾歌手包小柏爱女病逝)
-1. [三星堆发现一条虎头虎脑的青铜龙](https://so.toutiao.com/search?keyword=三星堆发现一条虎头虎脑的青铜龙)
-1. [伊朗同意斯里兰卡用茶叶还石油债务](https://so.toutiao.com/search?keyword=伊朗同意斯里兰卡用茶叶还石油债务)
-1. [移民乱港分子现状：英国背叛了我们](https://so.toutiao.com/search?keyword=移民乱港分子现状：英国背叛了我们)
-1. [胡兵晒照为妈妈庆生](https://so.toutiao.com/search?keyword=胡兵晒照为妈妈庆生)
+1. [我国完成对科技进步法的修订](https://so.toutiao.com/search?keyword=我国完成对科技进步法的修订)
 1. [广西“一把手”连夜赴疫区](https://so.toutiao.com/search?keyword=广西“一把手”连夜赴疫区)
-1. [中方将向所罗门群岛派遣警务顾问](https://so.toutiao.com/search?keyword=中方将向所罗门群岛派遣警务顾问)
+1. [移民乱港分子现状：英国背叛了我们](https://so.toutiao.com/search?keyword=移民乱港分子现状：英国背叛了我们)
+1. [三星堆发现一条虎头虎脑的青铜龙](https://so.toutiao.com/search?keyword=三星堆发现一条虎头虎脑的青铜龙)
+1. [丁威迪：比尔是我合作过的最好球员](https://so.toutiao.com/search?keyword=丁威迪：比尔是我合作过的最好球员)
 1. [刘和平：日本积极介入台海另有目的](https://so.toutiao.com/search?keyword=刘和平：日本积极介入台海另有目的)
-1. [俄锆石高超音速导弹齐射试验成功](https://so.toutiao.com/search?keyword=俄锆石高超音速导弹齐射试验成功)
+1. [胡兵晒照为妈妈庆生](https://so.toutiao.com/search?keyword=胡兵晒照为妈妈庆生)
+1. [双节临近供应足 菜价肉价总体平稳](https://so.toutiao.com/search?keyword=双节临近供应足+菜价肉价总体平稳)
+1. [中方将向所罗门群岛派遣警务顾问](https://so.toutiao.com/search?keyword=中方将向所罗门群岛派遣警务顾问)
+1. [韩国瑜回新北市参加联谊活动](https://so.toutiao.com/search?keyword=韩国瑜回新北市参加联谊活动)
+1. [台湾歌手包小柏爱女病逝](https://so.toutiao.com/search?keyword=台湾歌手包小柏爱女病逝)
 1. [秦刚：中美之间是赛跑不是拳击比赛](https://so.toutiao.com/search?keyword=秦刚：中美之间是赛跑不是拳击比赛)
 1. [专家：俄愤怒源于北溪-2无法开通](https://so.toutiao.com/search?keyword=专家：俄愤怒源于北溪-2无法开通)
-1. [深圳检出3例境外输入奥密克戎病例](https://so.toutiao.com/search?keyword=深圳检出3例境外输入奥密克戎病例)
-1. [海底捞回应庆生吵架同框](https://so.toutiao.com/search?keyword=海底捞回应庆生吵架同框)
 1. [东兴证券回应美女组合海报争议](https://so.toutiao.com/search?keyword=东兴证券回应美女组合海报争议)
-1. [双节临近供应足 菜价肉价总体平稳](https://so.toutiao.com/search?keyword=双节临近供应足+菜价肉价总体平稳)
+1. [深圳检出3例境外输入奥密克戎病例](https://so.toutiao.com/search?keyword=深圳检出3例境外输入奥密克戎病例)
+1. [俄锆石高超音速导弹齐射试验成功](https://so.toutiao.com/search?keyword=俄锆石高超音速导弹齐射试验成功)
+1. [海底捞回应庆生吵架同框](https://so.toutiao.com/search?keyword=海底捞回应庆生吵架同框)
 1. [解放军军机本月已有20天巡台](https://so.toutiao.com/search?keyword=解放军军机本月已有20天巡台)
 1. [江苏小伙确诊奥密克戎23天：大难不死](https://so.toutiao.com/search?keyword=江苏小伙确诊奥密克戎23天：大难不死)
-1. [罗志祥跨年复出被投诉](https://so.toutiao.com/search?keyword=罗志祥跨年复出被投诉)
 1. [蚂蚁消金拟增资至300亿](https://so.toutiao.com/search?keyword=蚂蚁消金拟增资至300亿)
 1. [梁朝伟晒与圣诞树合影](https://so.toutiao.com/search?keyword=梁朝伟晒与圣诞树合影)
 1. [中超：津门虎1-0绝杀重庆](https://so.toutiao.com/search?keyword=中超：津门虎1-0绝杀重庆)
@@ -92,24 +98,24 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sun Dec 26 2021 04:09:22 GMT+0800 (China Standard Time) -->
-1. [女子被误当野猪射击埋尸](https://www.zhihu.com/search?q=女子被当野猪射击)
-1. [紫罗兰永恒花园剧场版](https://www.zhihu.com/search?q=紫罗兰永恒花园)
-1. [文在寅将赦免朴槿惠](https://www.zhihu.com/search?q=朴槿惠)
-1. [考研政治](https://www.zhihu.com/search?q=考研政治)
-1. [广西新增确诊病例 5 例](https://www.zhihu.com/search?q=广西疫情)
-1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+<!-- 最后更新时间 Sun Dec 26 2021 05:07:44 GMT+0800 (China Standard Time) -->
 1. [广西东兴新增 8 例本土病例](https://www.zhihu.com/search?q=广西疫情)
-1. [《黑客帝国 4：矩阵重生》](https://www.zhihu.com/search?q=黑客帝国4)
+1. [广西新增确诊病例 5 例](https://www.zhihu.com/search?q=广西疫情)
+1. [考研政治](https://www.zhihu.com/search?q=考研政治)
+1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [霍尊回应陈露被抓](https://www.zhihu.com/search?q=霍尊回应)
 1. [海贼王 1036 话](https://www.zhihu.com/search?q=海贼王)
-1. [「车顶维权案」将开庭](https://www.zhihu.com/search?q=车顶维权案)
-1. [詹姆斯·韦伯望远镜发射升空](https://www.zhihu.com/search?q=韦伯望远镜)
 1. [一人之下 592 话](https://www.zhihu.com/search?q=一人之下)
 1. [咒术回战 0 剧场版](https://www.zhihu.com/search?q=咒术回战0)
+1. [紫罗兰永恒花园剧场版](https://www.zhihu.com/search?q=紫罗兰永恒花园)
+1. [「车顶维权案」将开庭](https://www.zhihu.com/search?q=车顶维权案)
+1. [女子被误当野猪射击埋尸](https://www.zhihu.com/search?q=女子被当野猪射击)
+1. [文在寅将赦免朴槿惠](https://www.zhihu.com/search?q=朴槿惠)
+1. [《黑客帝国 4：矩阵重生》](https://www.zhihu.com/search?q=黑客帝国4)
+1. [詹姆斯·韦伯望远镜发射升空](https://www.zhihu.com/search?q=韦伯望远镜)
 1. [TES 3:0 iG](https://www.zhihu.com/search?q=tes)
 1. [昆明报告 2 例核酸阳性](https://www.zhihu.com/search?q=昆明疫情)
 1. [麦当劳「1+1 套餐」涨价](https://www.zhihu.com/search?q=麦当劳涨价)
-1. [霍尊回应陈露被抓](https://www.zhihu.com/search?q=霍尊回应)
 1. [云南新增确诊病例 4 例](https://www.zhihu.com/search?q=云南疫情)
 1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
 1. [詹威合砍 66 分湖人 4 连败](https://www.zhihu.com/search?q=湖人)
@@ -120,14 +126,13 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Dec 26 2021 04:09:22 GMT+0800 (China Standard Time) -->
-1. [如何评价 2022 考研英语试题，英语一和英语二难度如何？](https://www.zhihu.com/question/508247327)
+<!-- 最后更新时间 Sun Dec 26 2021 05:07:44 GMT+0800 (China Standard Time) -->
 1. [如何看待普京称「美国遏制不了中国的发展，中国将必然成为世界第一大经济体」？这释放了哪些信号？](https://www.zhihu.com/question/508117655)
 1. [翻白眼用力过猛有可能把眼球翻 180 度看到自己的大脑吗？](https://www.zhihu.com/question/366758093)
 1. [12 月 24 日陕西新增本土确诊病例 78 例，目前防疫进展如何？](https://www.zhihu.com/question/508213997)
 1. [如何看待祝融号火星车总设计师说「只有珠峰能开售票点、小卖部时，才可能谈移民火星」？移民火星有哪些条件？](https://www.zhihu.com/question/508129889)
-1. [大三女孩疑因租房纠纷服毒身亡，房东发长文回应称「是她先骂我的，不会道歉」，如何从法律层面分析此事？](https://www.zhihu.com/question/508226449)
 1. [港媒称「美国为18名官员向中国申请签证，要出席北京冬奥」这意味着什么？还有哪些信息值得关注？](https://www.zhihu.com/question/508253680)
+1. [大三女孩疑因租房纠纷服毒身亡，房东发长文回应称「是她先骂我的，不会道歉」，如何从法律层面分析此事？](https://www.zhihu.com/question/508226449)
 1. [偷猎者误把躲草丛非法捕鱼女当野猪射杀后埋尸荒野，家属称不会谅解，如何从法律角度分析需要承担的责任？](https://www.zhihu.com/question/507938010)
 1. [如何评价莱昂纳多·迪卡普里奥和詹妮弗·劳伦斯主演的喜剧电影《不要抬头》？](https://www.zhihu.com/question/489257735)
 1. [电影《误杀2》好看吗?](https://www.zhihu.com/question/507204051)
@@ -138,9 +143,11 @@
 1. [如何评价电影《生化危机：欢迎来到浣熊市》？](https://www.zhihu.com/question/495923127)
 1. [用破壁机能做出哪些好吃的？](https://www.zhihu.com/question/66056631)
 1. [如何一次性通过科目三?](https://www.zhihu.com/question/24523966)
+1. [你认识的不懂电脑的人有什么令人哭笑不得的操作？](https://www.zhihu.com/question/267172350)
 1. [为什么有的人明明很虚伪却感觉其人缘很好，而有的人明明很善良却感觉被孤立？](https://www.zhihu.com/question/40092699)
 1. [有哪些让你用一次后感觉「以前的力气都白费了」的家居好物？](https://www.zhihu.com/question/420760487)
 1. [你知道哪些令人拍案叫绝的英语成语翻译？](https://www.zhihu.com/question/267896650)
+1. [如何评价 2022 考研英语试题，英语一和英语二难度如何？](https://www.zhihu.com/question/508247327)
 1. [商务工作中戴 Apple Watch 可以吗？](https://www.zhihu.com/question/357232560)
 1. [如何看待《一年一度喜剧大赛》的王晧史策？](https://www.zhihu.com/question/502689474)
 1. [你听过最励志的一句文案是什么？](https://www.zhihu.com/question/437716992)
@@ -160,8 +167,8 @@
 1. [有什么适合跨年发的文案？](https://www.zhihu.com/question/506769088)
 1. [如何看待最新发布的金山数字办公平台？](https://www.zhihu.com/question/507771591)
 1. [有没有看上头的古言小说？](https://www.zhihu.com/question/506903602)
-1. [普京在 2021 年度记者会中称，中俄正联合研发「高科技武器」，本次记者会有哪些信息值得关注？](https://www.zhihu.com/question/508003846)
 1. [有没有不烂大街的高级文案？](https://www.zhihu.com/question/489208790)
+1. [普京在 2021 年度记者会中称，中俄正联合研发「高科技武器」，本次记者会有哪些信息值得关注？](https://www.zhihu.com/question/508003846)
 1. [如何评价犯罪话题电影《门锁》？](https://www.zhihu.com/question/499058239)
 1. [《穿过寒冬拥抱你》有哪些看点？](https://www.zhihu.com/question/507441272)
 1. [詹姆斯·韦伯太空望远镜发射升空，此前已推迟 14 年，这一任务有哪些挑战？将为宇宙探索带来怎样的突破？](https://www.zhihu.com/question/508071961)
@@ -195,7 +202,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Sun Dec 26 2021 04:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 26 2021 05:07:44 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -218,7 +225,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sun Dec 26 2021 04:09:22 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Dec 26 2021 05:07:44 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
