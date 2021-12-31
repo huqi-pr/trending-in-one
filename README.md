@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sat Jan 01 2022 00:13:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 01 2022 01:17:32 GMT+0800 (China Standard Time) -->
 1. [新年贺词](https://so.toutiao.com/search?keyword=新年贺词)
 1. [2022年1月新规来了](https://so.toutiao.com/search?keyword=2022年1月新规来了)
 1. [这就是我们共同写就的壮阔答卷](https://so.toutiao.com/search?keyword=这就是我们共同写就的壮阔答卷)
@@ -35,7 +35,7 @@
 1. [男子被拐33年靠手绘地图寻亲成功](https://so.toutiao.com/search?keyword=男子被拐33年靠手绘地图寻亲成功)
 1. [中纪委评山姆下架新疆产品](https://so.toutiao.com/search?keyword=中纪委评山姆下架新疆产品)
 1. [财政部下拨5亿支持陕西防疫](https://so.toutiao.com/search?keyword=财政部下拨5亿支持陕西防疫)
-1. [张小斐获金鸡奖最佳女主与贾玲拥抱](https://so.toutiao.com/search?keyword=张小斐获金鸡奖最佳女主与贾玲拥抱)
+1. [西安最近一轮核酸筛查检出阳性77人](https://so.toutiao.com/search?keyword=西安最近一轮核酸筛查检出阳性77人)
 1. [中科院2022跨年科学演讲](https://so.toutiao.com/search?keyword=中科院2022跨年科学演讲)
 1. [全国多地取消跨年活动](https://so.toutiao.com/search?keyword=全国多地取消跨年活动)
 1. [罗振宇万人空场跨年演讲](https://so.toutiao.com/search?keyword=罗振宇万人空场跨年演讲)
@@ -46,34 +46,36 @@
 1. [美国日增确诊创最高纪录](https://so.toutiao.com/search?keyword=美国日增确诊创最高纪录)
 1. [“微信支付宝金额将被冻结”是谣言](https://so.toutiao.com/search?keyword=“微信支付宝金额将被冻结”是谣言)
 1. [西安市民战疫求助入口](https://so.toutiao.com/search?keyword=西安市民战疫求助入口)
-1. [第34届金鸡奖颁奖名场面](https://so.toutiao.com/search?keyword=第34届金鸡奖颁奖名场面)
-1. [薄熙来等“九虎”被点名](https://so.toutiao.com/search?keyword=薄熙来等“九虎”被点名)
-1. [省委政法委原副书记长期喝年份茅台](https://so.toutiao.com/search?keyword=省委政法委原副书记长期喝年份茅台)
-1. [往届金鸡奖的“失落时刻”](https://so.toutiao.com/search?keyword=往届金鸡奖的“失落时刻”)
 1. [朴槿惠获释细节：亲手接过赦免证](https://so.toutiao.com/search?keyword=朴槿惠获释细节：亲手接过赦免证)
-1. [游街示众会侵犯人格尊严权吗](https://so.toutiao.com/search?keyword=游街示众会侵犯人格尊严权吗)
-1. [中国“人造太阳”运行时间破千秒](https://so.toutiao.com/search?keyword=中国“人造太阳”运行时间破千秒)
+1. [薄熙来等“九虎”被点名](https://so.toutiao.com/search?keyword=薄熙来等“九虎”被点名)
+1. [往届金鸡奖的“失落时刻”](https://so.toutiao.com/search?keyword=往届金鸡奖的“失落时刻”)
 1. [张庭公司百元化妆品成本仅4元](https://so.toutiao.com/search?keyword=张庭公司百元化妆品成本仅4元)
-1. [贵州遵义疑燃气爆炸 居民以为地震](https://so.toutiao.com/search?keyword=贵州遵义疑燃气爆炸+居民以为地震)
-1. [朴槿惠获释粉丝挥应援棒齐喊我爱你](https://so.toutiao.com/search?keyword=朴槿惠获释粉丝挥应援棒齐喊我爱你)
-1. [西安最近一轮核酸筛查检出阳性77人](https://so.toutiao.com/search?keyword=西安最近一轮核酸筛查检出阳性77人)
-1. [张信哲代言博彩平台犯法吗](https://so.toutiao.com/search?keyword=张信哲代言博彩平台犯法吗)
-1. [西安航空学院现多例确诊全面封闭](https://so.toutiao.com/search?keyword=西安航空学院现多例确诊全面封闭)
-1. [张译获最佳男主说对不起于和伟](https://so.toutiao.com/search?keyword=张译获最佳男主说对不起于和伟)
-1. [西门子总裁警告德外长别与中国对抗](https://so.toutiao.com/search?keyword=西门子总裁警告德外长别与中国对抗)
-1. [孙卓妈妈年幼时也曾走丢](https://so.toutiao.com/search?keyword=孙卓妈妈年幼时也曾走丢)
+1. [张小斐获金鸡奖最佳女主与贾玲拥抱](https://so.toutiao.com/search?keyword=张小斐获金鸡奖最佳女主与贾玲拥抱)
+1. [中国“人造太阳”运行时间破千秒](https://so.toutiao.com/search?keyword=中国“人造太阳”运行时间破千秒)
+1. [游街示众会侵犯人格尊严权吗](https://so.toutiao.com/search?keyword=游街示众会侵犯人格尊严权吗)
 1. [西安：12月31日开展新一轮核酸筛查](https://so.toutiao.com/search?keyword=西安：12月31日开展新一轮核酸筛查)
-1. [孙俪发长文告别2021](https://so.toutiao.com/search?keyword=孙俪发长文告别2021)
+1. [贵州遵义疑燃气爆炸 居民以为地震](https://so.toutiao.com/search?keyword=贵州遵义疑燃气爆炸+居民以为地震)
+1. [第34届金鸡奖颁奖名场面](https://so.toutiao.com/search?keyword=第34届金鸡奖颁奖名场面)
+1. [张信哲代言博彩平台犯法吗](https://so.toutiao.com/search?keyword=张信哲代言博彩平台犯法吗)
+1. [西门子总裁警告德外长别与中国对抗](https://so.toutiao.com/search?keyword=西门子总裁警告德外长别与中国对抗)
 1. [俄方：拜登多次强调不能开始核战争](https://so.toutiao.com/search?keyword=俄方：拜登多次强调不能开始核战争)
-1. [中国将对高氯酸钾实施出口管制](https://so.toutiao.com/search?keyword=中国将对高氯酸钾实施出口管制)
-1. [海军陆战队首任司令赴东部战区任职](https://so.toutiao.com/search?keyword=海军陆战队首任司令赴东部战区任职)
-1. [古天乐和《反贪风暴》陆志廉说再见](https://so.toutiao.com/search?keyword=古天乐和《反贪风暴》陆志廉说再见)
+1. [朴槿惠获释粉丝挥应援棒齐喊我爱你](https://so.toutiao.com/search?keyword=朴槿惠获释粉丝挥应援棒齐喊我爱你)
 1. [周深邓丽君跨时空合唱](https://so.toutiao.com/search?keyword=周深邓丽君跨时空合唱)
-1. [跨年夜吃什么](https://so.toutiao.com/search?keyword=跨年夜吃什么)
-1. [朱媛媛谈获金鸡奖最佳女配角的感受](https://so.toutiao.com/search?keyword=朱媛媛谈获金鸡奖最佳女配角的感受)
-1. [日媒：若台海有事在台日侨需自谋退路](https://so.toutiao.com/search?keyword=日媒：若台海有事在台日侨需自谋退路)
 1. [2021年7大瞬间](https://so.toutiao.com/search?keyword=2021年7大瞬间)
+1. [西安航空学院现多例确诊全面封闭](https://so.toutiao.com/search?keyword=西安航空学院现多例确诊全面封闭)
+1. [孙俪发长文告别2021](https://so.toutiao.com/search?keyword=孙俪发长文告别2021)
+1. [俄罗斯女学生获国家杜马代表赠马](https://so.toutiao.com/search?keyword=俄罗斯女学生获国家杜马代表赠马)
+1. [省委政法委原副书记长期喝年份茅台](https://so.toutiao.com/search?keyword=省委政法委原副书记长期喝年份茅台)
+1. [孙卓妈妈年幼时也曾走丢](https://so.toutiao.com/search?keyword=孙卓妈妈年幼时也曾走丢)
+1. [朱媛媛谈获金鸡奖最佳女配角的感受](https://so.toutiao.com/search?keyword=朱媛媛谈获金鸡奖最佳女配角的感受)
 1. [东方卫视跨年李克勤演唱《秒针》](https://so.toutiao.com/search?keyword=东方卫视跨年李克勤演唱《秒针》)
+1. [海军陆战队首任司令赴东部战区任职](https://so.toutiao.com/search?keyword=海军陆战队首任司令赴东部战区任职)
+1. [日媒：若台海有事在台日侨需自谋退路](https://so.toutiao.com/search?keyword=日媒：若台海有事在台日侨需自谋退路)
+1. [古天乐和《反贪风暴》陆志廉说再见](https://so.toutiao.com/search?keyword=古天乐和《反贪风暴》陆志廉说再见)
+1. [中国将对高氯酸钾实施出口管制](https://so.toutiao.com/search?keyword=中国将对高氯酸钾实施出口管制)
+1. [跨年夜吃什么](https://so.toutiao.com/search?keyword=跨年夜吃什么)
+1. [“土房哥”于北辰退出国民党](https://so.toutiao.com/search?keyword=“土房哥”于北辰退出国民党)
+1. [张译获最佳男主说对不起于和伟](https://so.toutiao.com/search?keyword=张译获最佳男主说对不起于和伟)
 1. [阿富汗前总统谈逃亡时刻](https://so.toutiao.com/search?keyword=阿富汗前总统谈逃亡时刻)
 <!-- END TOUTIAO -->
 
@@ -82,15 +84,19 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sat Jan 01 2022 00:13:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 01 2022 01:17:32 GMT+0800 (China Standard Time) -->
 1. [2022 年跨年文案](https://www.zhihu.com/search?q=跨年文案)
-1. [国防部称解放军军机只多不少](https://www.zhihu.com/search?q=解放军军机)
-1. [郭艾伦被驱逐](https://www.zhihu.com/search?q=郭艾伦被驱逐)
+1. [2022 年来啦](https://www.zhihu.com/search?q=2022)
 1. [媒体评「山姆退卡潮」](https://www.zhihu.com/search?q=山姆退卡潮)
 1. [《原神》申鹤角色 PV](https://www.zhihu.com/search?q=原神)
-1. [2021 年最后一天](https://www.zhihu.com/search?q=2021最后一天)
-1. [一人之下最新 594 话](https://www.zhihu.com/search?q=一人之下)
+1. [阿里安全把 steam 当木马](https://www.zhihu.com/search?q=steam)
 1. [幻塔 PV 疑似抄袭](https://www.zhihu.com/search?q=幻塔)
+1. [中国「人造太阳」运行时间破千秒](https://www.zhihu.com/search?q=中国人造太阳)
+1. [一人之下最新 594 话](https://www.zhihu.com/search?q=一人之下)
+1. [Epic 免费送古墓丽影](https://www.zhihu.com/search?q=epic)
+1. [郭艾伦被驱逐](https://www.zhihu.com/search?q=郭艾伦被驱逐)
+1. [国防部称解放军军机只多不少](https://www.zhihu.com/search?q=解放军军机)
+1. [2021 年最后一天](https://www.zhihu.com/search?q=2021最后一天)
 1. [张信哲被举报代言赌博平台](https://www.zhihu.com/search?q=张信哲被举报)
 1. [陕西新增 165 例本土确诊](https://www.zhihu.com/search?q=陕西疫情)
 <!-- END ZHIHUSEARCH -->
@@ -100,7 +106,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sat Jan 01 2022 00:13:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 01 2022 01:17:32 GMT+0800 (China Standard Time) -->
 1. [听完国家主席习近平发表的二〇二二年新年贺词，你有怎样的感触？对于自己的二〇二二年有什么期待？](https://www.zhihu.com/question/509342997)
 1. [如何评价你的 2021 年？对 2022 年你有哪些规划？](https://www.zhihu.com/question/502382907)
 1. [2021 年，你的生活有哪些最难忘的瞬间？](https://www.zhihu.com/question/502941451)
@@ -110,38 +116,49 @@
 1. [12 月 31 日河南洛阳发现 4 例无症状感染者，目前情况如何？](https://www.zhihu.com/question/509290724)
 1. [2022 年，你希望过一个什么样的生活？](https://www.zhihu.com/question/503473013)
 1. [华为轮值董事长新年致辞称「预计今年营收 6340 亿元同比下降 28.9%」，还有哪些信息值得关注 ？](https://www.zhihu.com/question/509257727)
-1. [如何看待国家体育总局发文表示「U20 国家队及以下各级国家队，严禁征调有纹身的运动员」？](https://www.zhihu.com/question/509078805)
-1. [2021 年你听到的最暖心的一句话是什么？](https://www.zhihu.com/question/503464200)
-1. [滴滴发布上市后首份财报，第三季度净亏损 306 亿，阿里张勇辞任滴滴董事，财报中还有哪些内容值得关注？](https://www.zhihu.com/question/509067141)
-1. [马斯克称「将在 5 到 10 年内送人类上火星，并建议在火星实行直接民主制」，如何评价其设想？](https://www.zhihu.com/question/509159531)
 1. [如何看待 Epic 2021 冬季压轴免费送游戏《古墓丽影：生存者 三部曲决定版》？](https://www.zhihu.com/question/508927023)
-1. [经典国产游戏《秦殇》中文版上架， 12 月 29 日正式发售，游戏体验如何？](https://www.zhihu.com/question/508751995)
-1. [前代理商曝张庭公司百元化妆品成本仅 4 元，化妆品的利润到底有多高？怎样通过价格来鉴别产品是不是传销？](https://www.zhihu.com/question/509252686)
+1. [2021 年你听到的最暖心的一句话是什么？](https://www.zhihu.com/question/503464200)
+1. [马斯克称「将在 5 到 10 年内送人类上火星，并建议在火星实行直接民主制」，如何评价其设想？](https://www.zhihu.com/question/509159531)
+1. [滴滴发布上市后首份财报，第三季度净亏损 306 亿，阿里张勇辞任滴滴董事，财报中还有哪些内容值得关注？](https://www.zhihu.com/question/509067141)
 1. [如何看待网传小米 MIUI 13 内置国家反诈中心 APP？](https://www.zhihu.com/question/509128730)
+1. [前代理商曝张庭公司百元化妆品成本仅 4 元，化妆品的利润到底有多高？怎样通过价格来鉴别产品是不是传销？](https://www.zhihu.com/question/509252686)
+1. [经典国产游戏《秦殇》中文版上架， 12 月 29 日正式发售，游戏体验如何？](https://www.zhihu.com/question/508751995)
 1. [如何看待西安疫情时期八天八夜翻越秦岭回家的「狠人」？](https://www.zhihu.com/question/508914944)
 1. [2021 年哪个瞬间让你感到「自己被深深爱着」？](https://www.zhihu.com/question/504281393)
 1. [顾客在餐厅吃到网红视频中被咬过的芝士，如何看待店家二次售卖食材这一行为？](https://www.zhihu.com/question/509232532)
 1. [中科院院士称相信外星人存在，「希望未来能和外星人建立联系」，人类和外星人建联会有哪些利弊？](https://www.zhihu.com/question/509201069)
-1. [2021年跨年有哪些适合发朋友圈的小众文案？](https://www.zhihu.com/question/505929858)
-1. [临近过年了，领导突然告诉我让我写涨薪申请，可是前一段时间我主动去提的时候还给我画大饼。这次是怎么了？](https://www.zhihu.com/question/507211925)
 1. [民政部公布增补 15 个藏南地区公开使用地名，这意味着什么？](https://www.zhihu.com/question/509094620)
-1. [2021年的元旦要到了，有哪些元旦的文案推荐？](https://www.zhihu.com/question/507451088)
-1. [为什么千元机推荐都是小米？](https://www.zhihu.com/question/449004406)
+1. [临近过年了，领导突然告诉我让我写涨薪申请，可是前一段时间我主动去提的时候还给我画大饼。这次是怎么了？](https://www.zhihu.com/question/507211925)
 1. [有没有好的跨年文案？](https://www.zhihu.com/question/507361026)
 1. [中公教育取消公职类协议班的「不过包退」课程，释放了哪些信号？](https://www.zhihu.com/question/508792507)
 1. [河南卫视的国风系列节目爆火，真的能帮助传统文化走进年轻人的心里吗？](https://www.zhihu.com/question/505105836)
-1. [老板觉得戴眼镜影响办公心情，要求公司集体员工摘眼镜办公，你经历过职场容貌焦虑吗？](https://www.zhihu.com/question/508995643)
-1. [有什么适合跨年的句子？](https://www.zhihu.com/question/363113768)
-1. [如何评价元旦档电影《穿过寒冬拥抱你》？](https://www.zhihu.com/question/508209975)
+1. [为什么说血刀老祖是金庸笔下实战能力最厉害的人物？](https://www.zhihu.com/question/497686362)
 1. [你将会和谁一起跨年迎接 2022 ？这是你们一起跨年的第几年？](https://www.zhihu.com/question/503473158)
-1. [如何总结我的2021年？](https://www.zhihu.com/question/444363667)
+1. [为什么千元机推荐都是小米？](https://www.zhihu.com/question/449004406)
 1. [如何用一句简短的文案概括一下你的2021年呢？](https://www.zhihu.com/question/505592765)
+1. [有哪些适合女生微信使用的头像？](https://www.zhihu.com/question/310852153)
+1. [有什么适合跨年的句子？](https://www.zhihu.com/question/363113768)
+1. [如何总结我的2021年？](https://www.zhihu.com/question/444363667)
+1. [老板觉得戴眼镜影响办公心情，要求公司集体员工摘眼镜办公，你经历过职场容貌焦虑吗？](https://www.zhihu.com/question/508995643)
 1. [张天爱工作室否认「贴身抱男领导」等不实传闻，要求停止侵权行为，造谣者需要承担什么责任？](https://www.zhihu.com/question/509163973)
-1. [爸爸花七千多给我买了一个华为很老的笔记本电脑，我觉得不好用，但又舍不得换怎么办？](https://www.zhihu.com/question/415707444)
+1. [如何看待国家体育总局发文表示「U20 国家队及以下各级国家队，严禁征调有纹身的运动员」？](https://www.zhihu.com/question/509078805)
+1. [2021年的元旦要到了，有哪些元旦的文案推荐？](https://www.zhihu.com/question/507451088)
 1. [游戏《真三国无双 8：帝国》现已解禁，游戏体验如何？](https://www.zhihu.com/question/506250096)
-1. [有好一点的过年文案吗?](https://www.zhihu.com/question/504370197)
+1. [如何评价元旦档电影《穿过寒冬拥抱你》？](https://www.zhihu.com/question/508209975)
+1. [刚上大一，每天都很累，上了大学之后真的会开心吗？](https://www.zhihu.com/question/509103069)
+1. [职场中最重要的五个能力是什么？](https://www.zhihu.com/question/499452895)
+1. [小米 12 Pro 为什么取消 5 倍超长变焦？这是什么因素的考量？](https://www.zhihu.com/question/509101418)
+1. [你所在的地方冬天有什么别致的景色？](https://www.zhihu.com/question/503879701)
+1. [NBA 21-22 赛季 76 人 110:102 篮网，杜兰特复出 33 分，如何评价这场比赛？](https://www.zhihu.com/question/509255453)
+1. [2022 年即将到来，回顾 2021 年你有哪些微小的进步和坚持，特别值得被铭记？](https://www.zhihu.com/question/509096485)
+1. [有没有觉得上班没有意思的？](https://www.zhihu.com/question/508747854)
 1. [李彦宏称智能交通可使 5 年内一线城市不再限行，10 年内解决拥堵，你认同吗？未来智能交通会如何发展？](https://www.zhihu.com/question/508645858)
+1. [高校教授发声，经济学应被定为中学的必修课，有这个必要吗？](https://www.zhihu.com/question/506059893)
 1. [如何看待荣耀赵明称 MagicV 是可以「一部到位」的实用性折叠屏手机？这番言论底气何在？](https://www.zhihu.com/question/509321118)
+1. [有好一点的过年文案吗?](https://www.zhihu.com/question/504370197)
+1. [长期在有机化学实验室对身体有什么危害？](https://www.zhihu.com/question/263741321)
+1. [2021年跨年有哪些适合发朋友圈的小众文案？](https://www.zhihu.com/question/505929858)
+1. [爸爸花七千多给我买了一个华为很老的笔记本电脑，我觉得不好用，但又舍不得换怎么办？](https://www.zhihu.com/question/415707444)
 1. [「三扇门」问题中，主持人知道或不知道哪扇门后有汽车这两种情况下，参与者换门后获得汽车的概率有不同吗？](https://www.zhihu.com/question/507955265)
 1. [坐 37 小时的长途火车应准备什么？](https://www.zhihu.com/question/508798162)
 1. [有什么清新脱俗的「跨年文案」可以分享？](https://www.zhihu.com/question/503473118)
@@ -158,7 +175,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Sat Jan 01 2022 00:13:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 01 2022 01:17:32 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -181,7 +198,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sat Jan 01 2022 00:13:27 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jan 01 2022 01:17:32 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
