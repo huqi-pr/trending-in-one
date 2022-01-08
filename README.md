@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Sun Jan 09 2022 04:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 09 2022 05:07:56 GMT+0800 (China Standard Time) -->
 1. [天津新增18例感染者](https://so.toutiao.com/search?keyword=天津新增18例感染者)
 1. [哈萨克斯坦前总理涉嫌叛国罪被捕](https://so.toutiao.com/search?keyword=哈萨克斯坦前总理涉嫌叛国罪被捕)
 1. [告诉世界中国准备好了](https://so.toutiao.com/search?keyword=告诉世界中国准备好了)
@@ -42,39 +42,41 @@
 1. [哈首任总统呼吁全民支持现总统](https://so.toutiao.com/search?keyword=哈首任总统呼吁全民支持现总统)
 1. [十九大以来西藏“首虎”落马](https://so.toutiao.com/search?keyword=十九大以来西藏“首虎”落马)
 1. [旅客动车上吸烟 被禁乘火车180天](https://so.toutiao.com/search?keyword=旅客动车上吸烟+被禁乘火车180天)
-1. [深圳两区域调为中风险地区](https://so.toutiao.com/search?keyword=深圳两区域调为中风险地区)
 1. [郑州已发生局部社区传播](https://so.toutiao.com/search?keyword=郑州已发生局部社区传播)
 1. [西安本轮疫情源于巴基斯坦航班输入](https://so.toutiao.com/search?keyword=西安本轮疫情源于巴基斯坦航班输入)
 1. [河南疫情已波及3地9市](https://so.toutiao.com/search?keyword=河南疫情已波及3地9市)
-1. [哈萨克斯坦武装力量实力几何](https://so.toutiao.com/search?keyword=哈萨克斯坦武装力量实力几何)
 1. [深圳市民为防疫人员悄悄送去热盒饭](https://so.toutiao.com/search?keyword=深圳市民为防疫人员悄悄送去热盒饭)
+1. [深圳两区域调为中风险地区](https://so.toutiao.com/search?keyword=深圳两区域调为中风险地区)
 1. [美俄又因为哈萨克斯坦吵起来了](https://so.toutiao.com/search?keyword=美俄又因为哈萨克斯坦吵起来了)
-1. [河南多地劝返物流车](https://so.toutiao.com/search?keyword=河南多地劝返物流车)
 1. [美欲打“乌克兰牌”离间中俄？](https://so.toutiao.com/search?keyword=美欲打“乌克兰牌”离间中俄？)
-1. [美国女子怕感染将阳性儿子塞后备箱](https://so.toutiao.com/search?keyword=美国女子怕感染将阳性儿子塞后备箱)
-1. [网友亲历青海地震：以为爆炸了](https://so.toutiao.com/search?keyword=网友亲历青海地震：以为爆炸了)
 1. [天眼或已搜到外星文明信号](https://so.toutiao.com/search?keyword=天眼或已搜到外星文明信号)
-1. [成都男子吵架被泼火锅油 警方通报](https://so.toutiao.com/search?keyword=成都男子吵架被泼火锅油+警方通报)
-1. [哈萨克斯坦展出暴徒装备 含各式枪支](https://so.toutiao.com/search?keyword=哈萨克斯坦展出暴徒装备+含各式枪支)
 1. [华为高层人事调整](https://so.toutiao.com/search?keyword=华为高层人事调整)
-1. [美警用电击枪意外点燃男子致其身亡](https://so.toutiao.com/search?keyword=美警用电击枪意外点燃男子致其身亡)
-1. [被姐夫投毒女孩肺移植后需长期服药](https://so.toutiao.com/search?keyword=被姐夫投毒女孩肺移植后需长期服药)
 1. [哈萨克斯坦宣布10日为全民哀悼日](https://so.toutiao.com/search?keyword=哈萨克斯坦宣布10日为全民哀悼日)
+1. [哈萨克斯坦武装力量实力几何](https://so.toutiao.com/search?keyword=哈萨克斯坦武装力量实力几何)
 1. [发改委：春节重要民生商品供给充裕](https://so.toutiao.com/search?keyword=发改委：春节重要民生商品供给充裕)
-1. [北京国安官宣与主帅比利奇解约](https://so.toutiao.com/search?keyword=北京国安官宣与主帅比利奇解约)
+1. [美允许驻阿拉木图领馆雇员自愿离境](https://so.toutiao.com/search?keyword=美允许驻阿拉木图领馆雇员自愿离境)
+1. [成都男子吵架被泼火锅油 警方通报](https://so.toutiao.com/search?keyword=成都男子吵架被泼火锅油+警方通报)
+1. [网友亲历青海地震：以为爆炸了](https://so.toutiao.com/search?keyword=网友亲历青海地震：以为爆炸了)
+1. [哈萨克斯坦展出暴徒装备 含各式枪支](https://so.toutiao.com/search?keyword=哈萨克斯坦展出暴徒装备+含各式枪支)
+1. [美国女子怕感染将阳性儿子塞后备箱](https://so.toutiao.com/search?keyword=美国女子怕感染将阳性儿子塞后备箱)
 1. [中国抗议瑞士公布官员财产？假消息](https://so.toutiao.com/search?keyword=中国抗议瑞士公布官员财产？假消息)
+1. [狗子叼手电走夜路接女主人回家](https://so.toutiao.com/search?keyword=狗子叼手电走夜路接女主人回家)
 1. [两岁女童参加喜宴后毒鼠强中毒](https://so.toutiao.com/search?keyword=两岁女童参加喜宴后毒鼠强中毒)
 1. [张文宏：奥密克戎不是大号流感](https://so.toutiao.com/search?keyword=张文宏：奥密克戎不是大号流感)
-1. [国家卫健委回应西安孕妇流产事件](https://so.toutiao.com/search?keyword=国家卫健委回应西安孕妇流产事件)
-1. [快男白举纲承认已婚](https://so.toutiao.com/search?keyword=快男白举纲承认已婚)
-1. [挪威军人被要求在退役时返还内衣](https://so.toutiao.com/search?keyword=挪威军人被要求在退役时返还内衣)
-1. [数字人民币App与微信等有何不同](https://so.toutiao.com/search?keyword=数字人民币App与微信等有何不同)
-1. [中国设非洲之角事务特使引外媒热议](https://so.toutiao.com/search?keyword=中国设非洲之角事务特使引外媒热议)
+1. [河南多地劝返物流车](https://so.toutiao.com/search?keyword=河南多地劝返物流车)
 1. [郑州全市餐饮场所暂停堂食](https://so.toutiao.com/search?keyword=郑州全市餐饮场所暂停堂食)
-1. [美允许驻阿拉木图领馆雇员自愿离境](https://so.toutiao.com/search?keyword=美允许驻阿拉木图领馆雇员自愿离境)
-1. [《雪中悍刀行》中令人意难平的角色](https://so.toutiao.com/search?keyword=《雪中悍刀行》中令人意难平的角色)
+1. [被姐夫投毒女孩肺移植后需长期服药](https://so.toutiao.com/search?keyword=被姐夫投毒女孩肺移植后需长期服药)
+1. [国家卫健委回应西安孕妇流产事件](https://so.toutiao.com/search?keyword=国家卫健委回应西安孕妇流产事件)
+1. [北京国安官宣与主帅比利奇解约](https://so.toutiao.com/search?keyword=北京国安官宣与主帅比利奇解约)
+1. [挪威军人被要求在退役时返还内衣](https://so.toutiao.com/search?keyword=挪威军人被要求在退役时返还内衣)
+1. [中国设非洲之角事务特使引外媒热议](https://so.toutiao.com/search?keyword=中国设非洲之角事务特使引外媒热议)
+1. [快男白举纲承认已婚](https://so.toutiao.com/search?keyword=快男白举纲承认已婚)
+1. [数字人民币App与微信等有何不同](https://so.toutiao.com/search?keyword=数字人民币App与微信等有何不同)
 1. [哈官员：暴徒自称获报酬后参加骚乱](https://so.toutiao.com/search?keyword=哈官员：暴徒自称获报酬后参加骚乱)
 1. [西安一半确诊是核检中被感染？假的](https://so.toutiao.com/search?keyword=西安一半确诊是核检中被感染？假的)
+1. [新一轮疫情已波及18省31市](https://so.toutiao.com/search?keyword=新一轮疫情已波及18省31市)
+1. [美警用电击枪意外点燃男子致其身亡](https://so.toutiao.com/search?keyword=美警用电击枪意外点燃男子致其身亡)
+1. [《雪中悍刀行》中令人意难平的角色](https://so.toutiao.com/search?keyword=《雪中悍刀行》中令人意难平的角色)
 1. [加拿大包机出国网红仍被困墨西哥](https://so.toutiao.com/search?keyword=加拿大包机出国网红仍被困墨西哥)
 1. [《雪滴花》剧组演员发文悼念金美秀](https://so.toutiao.com/search?keyword=《雪滴花》剧组演员发文悼念金美秀)
 1. [刘诗诗活动生图](https://so.toutiao.com/search?keyword=刘诗诗活动生图)
@@ -88,17 +90,18 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Sun Jan 09 2022 04:09:23 GMT+0800 (China Standard Time) -->
-1. [哈萨克斯坦骚乱已平息](https://www.zhihu.com/search?q=哈萨克斯坦)
-1. [宝藏喜剧人被看见](https://www.zhihu.com/search?q=一年一度喜剧大赛)
-1. [23 岁姑娘胃疼 2 周确诊胃癌](https://www.zhihu.com/search?q=23 岁姑娘胃疼)
+<!-- 最后更新时间 Sun Jan 09 2022 05:07:56 GMT+0800 (China Standard Time) -->
 1. [教师资格证面试](https://www.zhihu.com/search?q=教师资格证面试)
-1. [特利迦奥特曼更新](https://www.zhihu.com/search?q=特利迦奥特曼)
-1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
-1. [深圳报告 2 例新冠阳性](https://www.zhihu.com/search?q=深圳疫情)
-1. [民警为西安临盆孕妇担保](https://www.zhihu.com/search?q=西安孕妇临盆)
-1. [《星骸骑士》导演亲自答](https://www.zhihu.com/search?q=星骸骑士)
+1. [23 岁姑娘胃疼 2 周确诊胃癌](https://www.zhihu.com/search?q=23 岁姑娘胃疼)
 1. [一人之下 595 话更新](https://www.zhihu.com/search?q=一人之下)
+1. [民警为西安临盆孕妇担保](https://www.zhihu.com/search?q=西安孕妇临盆)
+1. [宝藏喜剧人被看见](https://www.zhihu.com/search?q=一年一度喜剧大赛)
+1. [特利迦奥特曼更新](https://www.zhihu.com/search?q=特利迦奥特曼)
+1. [深圳报告 2 例新冠阳性](https://www.zhihu.com/search?q=深圳疫情)
+1. [新秦时明月更新](https://www.zhihu.com/search?q=新秦时明月)
+1. [《星骸骑士》导演亲自答](https://www.zhihu.com/search?q=星骸骑士)
+1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
+1. [哈萨克斯坦骚乱已平息](https://www.zhihu.com/search?q=哈萨克斯坦)
 1. [英雄联盟 CG「呼唤」](https://www.zhihu.com/search?q=英雄联盟cg)
 1. [西安卫健委道歉](https://www.zhihu.com/search?q=西安卫健委)
 1. [海贼王 1037 话情报](https://www.zhihu.com/search?q=海贼王)
@@ -107,7 +110,6 @@
 1. [网传拼多多开始裁员](https://www.zhihu.com/search?q=拼多多裁员)
 1. [西安盒马被监管局立案查处](https://www.zhihu.com/search?q=西安盒马)
 1. [青海 6.9 级地震](https://www.zhihu.com/search?q=青海地震)
-1. [国王排名更新](https://www.zhihu.com/search?q=国王排名)
 1. [上海新增 3 例无症状感染者](https://www.zhihu.com/search?q=上海疫情)
 1. [詹姆斯 32 分湖人 4 连胜](https://www.zhihu.com/search?q=湖人)
 1. [河南禹州公布病例活动轨迹](https://www.zhihu.com/search?q=河南疫情)
@@ -118,26 +120,26 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Sun Jan 09 2022 04:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 09 2022 05:07:56 GMT+0800 (China Standard Time) -->
 1. [超市里德国波兰进口牛奶 1L 才 6.5 元，国内蒙牛兑水牛奶 250 毫升 3 块多，为什么会这样？](https://www.zhihu.com/question/507361929)
 1. [白岩松首次回应「爹味」言论争议，称「平等是最大的尊重」，你觉得什么是「爹味」？怎么做到与他人平等交流？](https://www.zhihu.com/question/510223842)
 1. [截至 1 月 8 日 21 时，天津新增 18 例感染者，还有哪些信息值得关注？](https://www.zhihu.com/question/510555957)
 1. [英特尔挖走苹果 M1 首席芯片设计师，这将对苹果 M1 芯片设计工作产生哪些影响？](https://www.zhihu.com/question/510268216)
 1. [如何看待钟南山称理论上中国已达成「群体免疫」目标？我们的生活会回归到疫情之前的样子吗？](https://www.zhihu.com/question/510272554)
-1. [卫龙辣条被曝吃出疑似情趣用品，回应称「无法确认是工厂原因」，事件后续发展情况如何？](https://www.zhihu.com/question/510231872)
-1. [1 月 7 日全球行驶里程最高特斯拉诞生「已跑 150 万公里」，此举意味着什么？](https://www.zhihu.com/question/510338045)
-1. [为什么有人说小米是组装厂，而不说 OPPO/vivo 是组装厂？](https://www.zhihu.com/question/509874886)
 1. [为什么越来越多的学生和年轻人喜欢坐公交?](https://www.zhihu.com/question/509653623)
-1. [为什么手机厂商费尽心思把手机握持感做到极致，但网友们还是总带壳？](https://www.zhihu.com/question/509277375)
-1. [高中生「造」无人驾驶自行车获丘成桐中学科学奖，这是什么技术水平？](https://www.zhihu.com/question/509817266)
+1. [1 月 7 日全球行驶里程最高特斯拉诞生「已跑 150 万公里」，此举意味着什么？](https://www.zhihu.com/question/510338045)
+1. [卫龙辣条被曝吃出疑似情趣用品，回应称「无法确认是工厂原因」，事件后续发展情况如何？](https://www.zhihu.com/question/510231872)
+1. [为什么有人说小米是组装厂，而不说 OPPO/vivo 是组装厂？](https://www.zhihu.com/question/509874886)
+1. [爆料称苹果 iPhone 14 Pro 采用药丸状打孔屏，Face ID 隐藏在屏下，这样设计怎么样？](https://www.zhihu.com/question/510288704)
 1. [孩子很颓废，干什么都没有精神。马上寒假了，带孩子去大医院的急诊室和重症监护呆一天，对孩子会有启发吗？](https://www.zhihu.com/question/509821970)
+1. [为什么手机厂商费尽心思把手机握持感做到极致，但网友们还是总带壳？](https://www.zhihu.com/question/509277375)
 1. [如何看待《原神》“神女劈观”这波文化输出?](https://www.zhihu.com/question/510233451)
 1. [西安新冠确诊病例「1 传 43」，这是怎么造成的？给我们哪些启示？](https://www.zhihu.com/question/510402095)
-1. [哈萨克斯坦前总理马西莫夫因涉嫌叛国罪被捕，对哈萨克斯坦目前局势有什么影响？](https://www.zhihu.com/question/510479708)
-1. [爆料称苹果 iPhone 14 Pro 采用药丸状打孔屏，Face ID 隐藏在屏下，这样设计怎么样？](https://www.zhihu.com/question/510288704)
 1. [据传雅诗兰黛、海蓝之谜、祖玛珑、倩碧、芭比波朗、魅可、TF 等多个品牌将涨价，真实性如何？为何会涨价？](https://www.zhihu.com/question/509921706)
 1. [1 月 7 日河南新增本土确诊病例 43 例，郑州 24 例、许昌 18 例、周口 1 例，情况如何？](https://www.zhihu.com/question/510437950)
+1. [高中生「造」无人驾驶自行车获丘成桐中学科学奖，这是什么技术水平？](https://www.zhihu.com/question/509817266)
 1. [如何评价《英雄联盟》新 ADC 英雄「祖安火花」Zeri？](https://www.zhihu.com/question/509943819)
+1. [哈萨克斯坦前总理马西莫夫因涉嫌叛国罪被捕，对哈萨克斯坦目前局势有什么影响？](https://www.zhihu.com/question/510479708)
 1. [历史上有什么「决战兵器」逆转了战争的结局?](https://www.zhihu.com/question/442603973)
 1. [如何看待西安盒马存在不规范行为，被西安市场监管局立案查处?](https://www.zhihu.com/question/510449024)
 1. [地理真的是一门多多刷题，背知识点就能提升的科目吗？地理大题多刷题就能提分吗？如何总结整理？](https://www.zhihu.com/question/458351725)
@@ -164,11 +166,12 @@
 1. [一个女人开始变成女强人的征兆是什么？](https://www.zhihu.com/question/507161844)
 1. [20mm航炮与12.7MM机枪哪个威力大？](https://www.zhihu.com/question/502525596)
 1. [00 后计算机学生的最优解在哪里？](https://www.zhihu.com/question/509588859)
-1. [如何看待基金委 2022 新规：论文成果填写列出全部作者，不再标注一作通讯？](https://www.zhihu.com/question/510413440)
-1. [有没有暗恋结束表达遗憾的句子？](https://www.zhihu.com/question/413738519)
 1. [法国发现新型新冠变异毒株「IHU」，世卫组织已将其列为接受观察的变种，这会带来新一轮疫情传播吗？](https://www.zhihu.com/question/510027895)
+1. [有没有暗恋结束表达遗憾的句子？](https://www.zhihu.com/question/413738519)
 1. [有哪些万能的表情包推荐？](https://www.zhihu.com/question/310564833)
 1. [2022 年 7999 元入联想拯救者 R9000P 3060 性价比怎么样？](https://www.zhihu.com/question/510198925)
+1. [男生如何养成一张干干净净的脸？](https://www.zhihu.com/question/277842192)
+1. [如何看待基金委 2022 新规：论文成果填写列出全部作者，不再标注一作通讯？](https://www.zhihu.com/question/510413440)
 1. [给 50 多岁的老妈买手机选苹果还是华为？](https://www.zhihu.com/question/509820970)
 1. [怎么才能心无旁骛地学习？](https://www.zhihu.com/question/324702775)
 1. [大学很孤独，但是又不喜欢讨好式的友情，看着舍友互相讨好自己很不想和他们说话，感觉自己这样很奇怪怎么办？](https://www.zhihu.com/question/510304933)
@@ -182,7 +185,6 @@
 1. [如何看待 Chovy 排位中批评路人玩家「实为 TES 辅助 Zhuo」眼位理解长达 15 分钟？](https://www.zhihu.com/question/510097819)
 1. [如果在一段友谊中让你感到很累怎么办？](https://www.zhihu.com/question/509043451)
 1. [如果只让你推荐一件必买年货，你会按头安利什么？](https://www.zhihu.com/question/510299868)
-1. [男生如何养成一张干干净净的脸？](https://www.zhihu.com/question/277842192)
 1. [NBA 21-22 赛季雄鹿 121:109 篮网，杜兰特 29+9+7，如何评价这场比赛？](https://www.zhihu.com/question/510428073)
 1. [《原神》策划是否有可能为了葬送钟离而放弃所有岩系角色？](https://www.zhihu.com/question/510342390)
 1. [你觉得上班通勤时间多长合适？](https://www.zhihu.com/question/507907216)
@@ -194,7 +196,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Sun Jan 09 2022 04:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 09 2022 05:07:56 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -217,7 +219,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Sun Jan 09 2022 04:09:23 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Jan 09 2022 05:07:56 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
