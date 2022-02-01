@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Wed Feb 02 2022 06:08:19 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 02 2022 07:08:44 GMT+0800 (China Standard Time) -->
 1. [花式拜年大赏](https://so.toutiao.com/search?keyword=花式拜年大赏)
 1. [国足大年初一1比3输越南](https://so.toutiao.com/search?keyword=国足大年初一1比3输越南)
 1. [微笑中国年](https://so.toutiao.com/search?keyword=微笑中国年)
@@ -36,47 +36,50 @@
 1. [除夕夜将军替列兵站岗](https://so.toutiao.com/search?keyword=除夕夜将军替列兵站岗)
 1. [我国科学家发现抗衰老关键代谢物](https://so.toutiao.com/search?keyword=我国科学家发现抗衰老关键代谢物)
 1. [“为友谊干杯”表情包女主上春晚](https://so.toutiao.com/search?keyword=“为友谊干杯”表情包女主上春晚)
-1. [俄：若乌违反明斯克协议将自我毁灭](https://so.toutiao.com/search?keyword=俄：若乌违反明斯克协议将自我毁灭)
+1. [姜昆的相声为何经典](https://so.toutiao.com/search?keyword=姜昆的相声为何经典)
 1. [李承铉手写雄起为中国队加油](https://so.toutiao.com/search?keyword=李承铉手写雄起为中国队加油)
-1. [虎年央视春晚都有哪些熟面孔](https://so.toutiao.com/search?keyword=虎年央视春晚都有哪些熟面孔)
+1. [春晚明星们都有哪些奇葩的出圈点](https://so.toutiao.com/search?keyword=春晚明星们都有哪些奇葩的出圈点)
 1. [冯巩把谐音梗玩明白了](https://so.toutiao.com/search?keyword=冯巩把谐音梗玩明白了)
-1. [美国国务卿布林肯发新闻公报拜年](https://so.toutiao.com/search?keyword=美国国务卿布林肯发新闻公报拜年)
-1. [大年初一回村里拜年](https://so.toutiao.com/search?keyword=大年初一回村里拜年)
-1. [两岸专家谈美国无力与中国“单挑”](https://so.toutiao.com/search?keyword=两岸专家谈美国无力与中国“单挑”)
-1. [春晚小品哪个梗让你笑不停](https://so.toutiao.com/search?keyword=春晚小品哪个梗让你笑不停)
 1. [官员年前慰问走访 当天涉酒驾被查](https://so.toutiao.com/search?keyword=官员年前慰问走访+当天涉酒驾被查)
+1. [虎年央视春晚都有哪些熟面孔](https://so.toutiao.com/search?keyword=虎年央视春晚都有哪些熟面孔)
+1. [美国国务卿布林肯发新闻公报拜年](https://so.toutiao.com/search?keyword=美国国务卿布林肯发新闻公报拜年)
+1. [央视春晚节目有哪些创新](https://so.toutiao.com/search?keyword=央视春晚节目有哪些创新)
+1. [大年初一回村里拜年](https://so.toutiao.com/search?keyword=大年初一回村里拜年)
 1. [范志毅：中国足球不能再分你我他了](https://so.toutiao.com/search?keyword=范志毅：中国足球不能再分你我他了)
 1. [水门桥还原了哪些触动人心的历史](https://so.toutiao.com/search?keyword=水门桥还原了哪些触动人心的历史)
 1. [春节档影片豆瓣评分出炉](https://so.toutiao.com/search?keyword=春节档影片豆瓣评分出炉)
-1. [胡杏儿老公分享全家回农村过年趣事](https://so.toutiao.com/search?keyword=胡杏儿老公分享全家回农村过年趣事)
+1. [春晚小品哪个梗让你笑不停](https://so.toutiao.com/search?keyword=春晚小品哪个梗让你笑不停)
 1. [居民自建房起火 2名消防员牺牲](https://so.toutiao.com/search?keyword=居民自建房起火+2名消防员牺牲)
-1. [河北新增确诊4例系天津病例密接](https://so.toutiao.com/search?keyword=河北新增确诊4例系天津病例密接)
-1. [离深须持48小时内核酸阴性证明](https://so.toutiao.com/search?keyword=离深须持48小时内核酸阴性证明)
-1. [姜昆的相声为何经典](https://so.toutiao.com/search?keyword=姜昆的相声为何经典)
-1. [日政府暂不考虑在东京宣布紧急状态](https://so.toutiao.com/search?keyword=日政府暂不考虑在东京宣布紧急状态)
-1. [北京朝阳区一地升为高风险](https://so.toutiao.com/search?keyword=北京朝阳区一地升为高风险)
-1. [联合国安理会就乌克兰局势召开会议](https://so.toutiao.com/search?keyword=联合国安理会就乌克兰局势召开会议)
-1. [孙子给奶奶拜年磕头把盆磕瘪](https://so.toutiao.com/search?keyword=孙子给奶奶拜年磕头把盆磕瘪)
-1. [颖儿回应春晚表演时总是侧脸](https://so.toutiao.com/search?keyword=颖儿回应春晚表演时总是侧脸)
-1. [日媒：日本右翼政客石原慎太郎去世](https://so.toutiao.com/search?keyword=日媒：日本右翼政客石原慎太郎去世)
-1. [孙俪让邓超冷静点](https://so.toutiao.com/search?keyword=孙俪让邓超冷静点)
-1. [音舞诗画节目《忆江南》登上春晚](https://so.toutiao.com/search?keyword=音舞诗画节目《忆江南》登上春晚)
-1. [央视春晚节目有哪些创新](https://so.toutiao.com/search?keyword=央视春晚节目有哪些创新)
-1. [央视春节晚会那些搞笑瞬间](https://so.toutiao.com/search?keyword=央视春节晚会那些搞笑瞬间)
-1. [两家民营银行将停办现金收付业务](https://so.toutiao.com/search?keyword=两家民营银行将停办现金收付业务)
-1. [特鲁多谴责加拿大首都抗议行为](https://so.toutiao.com/search?keyword=特鲁多谴责加拿大首都抗议行为)
+1. [胡杏儿老公分享全家回农村过年趣事](https://so.toutiao.com/search?keyword=胡杏儿老公分享全家回农村过年趣事)
 1. [《乳虎啸春》主创人员谈幕后故事](https://so.toutiao.com/search?keyword=《乳虎啸春》主创人员谈幕后故事)
-1. [浙江省委书记与防疫人员同吃年夜饭](https://so.toutiao.com/search?keyword=浙江省委书记与防疫人员同吃年夜饭)
-1. [张文宏：疫情完全在我们的掌控之中](https://so.toutiao.com/search?keyword=张文宏：疫情完全在我们的掌控之中)
-1. [理想汽车1月交付12268辆](https://so.toutiao.com/search?keyword=理想汽车1月交付12268辆)
-1. [春晚明星们都有哪些奇葩的出圈点](https://so.toutiao.com/search?keyword=春晚明星们都有哪些奇葩的出圈点)
-1. [泰国恢复入境免隔离政策](https://so.toutiao.com/search?keyword=泰国恢复入境免隔离政策)
+1. [河北新增确诊4例系天津病例密接](https://so.toutiao.com/search?keyword=河北新增确诊4例系天津病例密接)
+1. [日政府暂不考虑在东京宣布紧急状态](https://so.toutiao.com/search?keyword=日政府暂不考虑在东京宣布紧急状态)
+1. [两岸专家谈美国无力与中国“单挑”](https://so.toutiao.com/search?keyword=两岸专家谈美国无力与中国“单挑”)
+1. [颖儿回应春晚表演时总是侧脸](https://so.toutiao.com/search?keyword=颖儿回应春晚表演时总是侧脸)
+1. [俄：若乌违反明斯克协议将自我毁灭](https://so.toutiao.com/search?keyword=俄：若乌违反明斯克协议将自我毁灭)
+1. [孙俪让邓超冷静点](https://so.toutiao.com/search?keyword=孙俪让邓超冷静点)
+1. [离深须持48小时内核酸阴性证明](https://so.toutiao.com/search?keyword=离深须持48小时内核酸阴性证明)
+1. [孙子给奶奶拜年磕头把盆磕瘪](https://so.toutiao.com/search?keyword=孙子给奶奶拜年磕头把盆磕瘪)
+1. [日媒：日本右翼政客石原慎太郎去世](https://so.toutiao.com/search?keyword=日媒：日本右翼政客石原慎太郎去世)
+1. [惠州市报告1例新冠肺炎确诊病例](https://so.toutiao.com/search?keyword=惠州市报告1例新冠肺炎确诊病例)
+1. [北京4例本土确诊中2人与冷库有关](https://so.toutiao.com/search?keyword=北京4例本土确诊中2人与冷库有关)
+1. [联合国安理会就乌克兰局势召开会议](https://so.toutiao.com/search?keyword=联合国安理会就乌克兰局势召开会议)
 1. [张雨绮演宋小宝初恋的女儿](https://so.toutiao.com/search?keyword=张雨绮演宋小宝初恋的女儿)
+1. [人民子弟兵在战位给全国人民拜年](https://so.toutiao.com/search?keyword=人民子弟兵在战位给全国人民拜年)
+1. [两家民营银行将停办现金收付业务](https://so.toutiao.com/search?keyword=两家民营银行将停办现金收付业务)
+1. [央视春节晚会那些搞笑瞬间](https://so.toutiao.com/search?keyword=央视春节晚会那些搞笑瞬间)
+1. [特鲁多谴责加拿大首都抗议行为](https://so.toutiao.com/search?keyword=特鲁多谴责加拿大首都抗议行为)
+1. [北京朝阳区一地升为高风险](https://so.toutiao.com/search?keyword=北京朝阳区一地升为高风险)
+1. [邓男子分享春晚魔术台前幕后的故事](https://so.toutiao.com/search?keyword=邓男子分享春晚魔术台前幕后的故事)
+1. [浙江省委书记与防疫人员同吃年夜饭](https://so.toutiao.com/search?keyword=浙江省委书记与防疫人员同吃年夜饭)
 1. [倪萍晒虎年第一幅画](https://so.toutiao.com/search?keyword=倪萍晒虎年第一幅画)
+1. [理想汽车1月交付12268辆](https://so.toutiao.com/search?keyword=理想汽车1月交付12268辆)
+1. [张文宏：疫情完全在我们的掌控之中](https://so.toutiao.com/search?keyword=张文宏：疫情完全在我们的掌控之中)
+1. [音舞诗画节目《忆江南》登上春晚](https://so.toutiao.com/search?keyword=音舞诗画节目《忆江南》登上春晚)
+1. [泰国恢复入境免隔离政策](https://so.toutiao.com/search?keyword=泰国恢复入境免隔离政策)
 1. [杭州回应富阳交通管制：防疫情外溢](https://so.toutiao.com/search?keyword=杭州回应富阳交通管制：防疫情外溢)
 1. [吴京主演票房破250亿元](https://so.toutiao.com/search?keyword=吴京主演票房破250亿元)
 1. [《狙击手》口碑](https://so.toutiao.com/search?keyword=《狙击手》口碑)
-1. [邓男子分享春晚魔术台前幕后的故事](https://so.toutiao.com/search?keyword=邓男子分享春晚魔术台前幕后的故事)
 1. [《只此青绿》演活《千里江山图》](https://so.toutiao.com/search?keyword=《只此青绿》演活《千里江山图》)
 1. [今年的央视春晚有哪些不同](https://so.toutiao.com/search?keyword=今年的央视春晚有哪些不同)
 1. [2022年春节档谁会是赢家](https://so.toutiao.com/search?keyword=2022年春节档谁会是赢家)
@@ -84,7 +87,6 @@
 1. [河南塔沟武校再登央视春晚](https://so.toutiao.com/search?keyword=河南塔沟武校再登央视春晚)
 1. [《流浪地球2》吴京刘德华拜年](https://so.toutiao.com/search?keyword=《流浪地球2》吴京刘德华拜年)
 1. [广汽埃安1月全系销量16031台](https://so.toutiao.com/search?keyword=广汽埃安1月全系销量16031台)
-1. [惠州市报告1例新冠肺炎确诊病例](https://so.toutiao.com/search?keyword=惠州市报告1例新冠肺炎确诊病例)
 1. [中方：在乌问题上不应炒作渲染危机](https://so.toutiao.com/search?keyword=中方：在乌问题上不应炒作渲染危机)
 1. [文牧野谈《奇迹·笨小孩》创作心路](https://so.toutiao.com/search?keyword=文牧野谈《奇迹·笨小孩》创作心路)
 1. [各大卫视春节晚会节目单](https://so.toutiao.com/search?keyword=各大卫视春节晚会节目单)
@@ -105,19 +107,19 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Wed Feb 02 2022 06:08:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 02 2022 07:08:44 GMT+0800 (China Standard Time) -->
 1. [国足不敌越南无缘 2022 世界杯](https://www.zhihu.com/search?q=国足)
-1. [四海口碑](https://www.zhihu.com/search?q=四海)
 1. [少年歌行 2 更新](https://www.zhihu.com/search?q=少年歌行)
-1. [韩东君告别平河](https://www.zhihu.com/search?q=长津湖)
-1. [虎年是小猫咪的本命年吗](https://www.zhihu.com/search?q=猫的本命年)
-1. [《杀手》导演亲自答](https://www.zhihu.com/search?q=这个杀手不太冷静)
-1. [支付宝集五福活动开奖](https://www.zhihu.com/search?q=支付宝集五福)
-1. [河北衡水发现一名新冠患者](https://www.zhihu.com/search?q=河北衡水疫情)
-1. [内蒙古二连浩特发生 3 车相撞事故](https://www.zhihu.com/search?q=内蒙古二连浩特)
-1. [电影版《倚天屠龙记》](https://www.zhihu.com/search?q=倚天屠龙记)
 1. [只此青绿](https://www.zhihu.com/search?q=只此青绿)
+1. [韩东君告别平河](https://www.zhihu.com/search?q=长津湖)
+1. [支付宝集五福活动开奖](https://www.zhihu.com/search?q=支付宝集五福)
 1. [航天员太空中喜迎春节](https://www.zhihu.com/search?q=航天员太空过年)
+1. [内蒙古二连浩特发生 3 车相撞事故](https://www.zhihu.com/search?q=内蒙古二连浩特)
+1. [河北衡水发现一名新冠患者](https://www.zhihu.com/search?q=河北衡水疫情)
+1. [虎年是小猫咪的本命年吗](https://www.zhihu.com/search?q=猫的本命年)
+1. [电影版《倚天屠龙记》](https://www.zhihu.com/search?q=倚天屠龙记)
+1. [四海口碑](https://www.zhihu.com/search?q=四海)
+1. [《杀手》导演亲自答](https://www.zhihu.com/search?q=这个杀手不太冷静)
 1. [深圳新增 1 例确诊](https://www.zhihu.com/search?q=深圳疫情)
 1. [布雷迪宣布退役](https://www.zhihu.com/search?q=布雷迪)
 1. [北京新增确诊 2 例](https://www.zhihu.com/search?q=北京疫情)
@@ -131,7 +133,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Wed Feb 02 2022 06:08:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 02 2022 07:08:44 GMT+0800 (China Standard Time) -->
 1. [如何评价电影《长津湖之水门桥》？](https://www.zhihu.com/question/513091576)
 1. [世预赛 12 强赛国足 1:3 不敌越南，彻底无缘 2022 世界杯，如何评价本场比赛？](https://www.zhihu.com/question/514309169)
 1. [如何评价韩寒执导，刘昊然、沈腾等主演的电影《四海》？](https://www.zhihu.com/question/506023996)
@@ -143,16 +145,17 @@
 1. [刘谦在2022年拜年纪中的魔术是什么原理？](https://www.zhihu.com/question/514238656)
 1. [马斯克又「炮轰」拜登称「拜登是一个人形湿袜木偶」，对此你有何评价？](https://www.zhihu.com/question/513807210)
 1. [同事有车，住在同一个小区，上下班该不该一直蹭他车？](https://www.zhihu.com/question/513790880)
-1. [为什么「God bless you」的「bless」不是「blesses」呢？](https://www.zhihu.com/question/20746724)
-1. [你有哪些给女孩子在恋爱中的忠告？](https://www.zhihu.com/question/279752156)
-1. [荣耀官宣参与 2022 年 MWC 世界移动通信大会疑发布 Magic 系列新品，有哪些信息值得关注？](https://www.zhihu.com/question/513808202)
-1. [有没有让你印象深刻的文案？](https://www.zhihu.com/question/513475698)
+1. [为什么农历误差如此之大，能闰一个月？](https://www.zhihu.com/question/514307216)
 1. [如何评价马丽、魏翔、陈明昊主演的电影《这个杀手不太冷静》？](https://www.zhihu.com/question/512183237)
 1. [你收藏过哪些温柔又治愈的文案呀？](https://www.zhihu.com/question/505696777)
+1. [有没有让你印象深刻的文案？](https://www.zhihu.com/question/513475698)
+1. [为什么「God bless you」的「bless」不是「blesses」呢？](https://www.zhihu.com/question/20746724)
 1. [如何评价韩红的春晚歌曲《这世界那么多人》？](https://www.zhihu.com/question/514241236)
+1. [荣耀官宣参与 2022 年 MWC 世界移动通信大会疑发布 Magic 系列新品，有哪些信息值得关注？](https://www.zhihu.com/question/513808202)
 1. [是什么因素导致《孤勇者》这首歌评论两极分化那么严重？](https://www.zhihu.com/question/500029703)
-1. [为什么职场大多数人喜欢甩锅?](https://www.zhihu.com/question/512244577)
+1. [你有哪些给女孩子在恋爱中的忠告？](https://www.zhihu.com/question/279752156)
 1. [1 月 31 日深圳新增 1 例确诊，疫情源头不明确，目前情况如何？](https://www.zhihu.com/question/514244486)
+1. [为什么职场大多数人喜欢甩锅?](https://www.zhihu.com/question/512244577)
 1. [大家觉得现在初三努力还来得及吗？](https://www.zhihu.com/question/512920820)
 1. [如何以「一觉醒来，对驸马死缠烂打的我，自请和离」为开头写一个小说？](https://www.zhihu.com/question/503658805)
 1. [如何评价易烊千玺在《奇迹·笨小孩》中的表现？](https://www.zhihu.com/question/514094257)
@@ -178,10 +181,10 @@
 1. [大家有没有什么推荐的看了无数遍巨好看的甜虐现言?](https://www.zhihu.com/question/385032169)
 1. [想在初三下半年努力考普通高中有什么好办法吗?](https://www.zhihu.com/question/513268765)
 1. [如果相机拥有无限宽容度和永远可用的 ISO，那么还会存在打光一说吗？](https://www.zhihu.com/question/513305799)
+1. [是不是女孩子谈恋爱之后，还是很难拒绝其他男孩子的好意？或者说依旧要和其他男孩子保持联系之类的？](https://www.zhihu.com/question/514300600)
 1. [有没有很美的句子啊?](https://www.zhihu.com/question/503883582)
 1. [2022 年是虎年，如何回答孩子「为什么十二生肖里有虎，没有猫」呢？](https://www.zhihu.com/question/511185447)
 1. [如何用一张照片展现你家乡的年味习俗？](https://www.zhihu.com/question/514230162)
-1. [是不是女孩子谈恋爱之后，还是很难拒绝其他男孩子的好意？或者说依旧要和其他男孩子保持联系之类的？](https://www.zhihu.com/question/514300600)
 1. [能不能在冰箱里开一场冰雪运动会？](https://www.zhihu.com/question/513781420)
 1. [剧版《雪中悍刀行》中，你最佩服谁？](https://www.zhihu.com/question/511558662)
 1. [你做过最虎的事情是什么？](https://www.zhihu.com/question/514305234)
@@ -208,7 +211,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Wed Feb 02 2022 06:08:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 02 2022 07:08:44 GMT+0800 (China Standard Time) -->
 1. [买一整只乳猪回家烤，烤到手腕酸得动不了……](https://www.zhihu.com/zvideo/1360916447506702336)
 1. [外交部回应 BBC 记者非正常离任：他跑什么呢](https://www.zhihu.com/zvideo/1360702099882409984)
 1. [老饭骨糖醋鱼 + 万能糖醋汁分享，毫无保留，就是实在](https://www.zhihu.com/zvideo/1360648280272162818)
@@ -231,7 +234,7 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Wed Feb 02 2022 06:08:18 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Feb 02 2022 07:08:44 GMT+0800 (China Standard Time) -->
 
 <!-- END WEIBO -->
 
