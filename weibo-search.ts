@@ -13,7 +13,12 @@ import {
 
 const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
 
-const response = await fetch("https://s.weibo.com/top/summary");
+const response = await fetch("https://s.weibo.com/top/summary", {
+  headers: {
+    "Cookie":
+      "SUB=_2AkMVdRtlf8NxqwJRmfoWy2_lb4V0yQvEieKjKeq-JRMxHRl-yT8XqmYatRB6PvU1ijEk4CykabQQvFhJAy31x99v4Ejs;",
+  },
+});
 
 if (!response.ok) {
   console.error(response.statusText);
