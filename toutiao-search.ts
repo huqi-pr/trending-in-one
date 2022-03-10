@@ -33,7 +33,7 @@ if (await exists(fullPath)) {
 }
 
 const _words = words.map((x) => {
-  x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(" ", "+")}`;
+  x.url = `https://so.toutiao.com/search?keyword=${x.word.replace(/(^\s+)|(\s+$)|\s+/g,'%20')}`;
   return x;
 });
 
