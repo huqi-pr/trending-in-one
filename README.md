@@ -24,7 +24,7 @@
 ## 今日头条热搜
 
 <!-- BEGIN TOUTIAO -->
-<!-- 最后更新时间 Fri Jul 19 2024 09:58:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 19 2024 09:59:02 GMT+0800 (China Standard Time) -->
 1. [媒体：“武侠影后”郑佩佩去世](https://so.toutiao.com/search?keyword=媒体：“武侠影后”郑佩佩去世)
 1. [朱忠明任上海市委副书记](https://so.toutiao.com/search?keyword=朱忠明任上海市委副书记)
 1. [更好满足人民精神文化生活新期待](https://so.toutiao.com/search?keyword=更好满足人民精神文化生活新期待)
@@ -171,7 +171,7 @@
 ## 知乎热搜榜
 
 <!-- BEGIN ZHIHUSEARCH -->
-<!-- 最后更新时间 Fri Jul 19 2024 09:58:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 19 2024 09:59:02 GMT+0800 (China Standard Time) -->
 1. [拜登新冠检测呈阳性](https://www.zhihu.com/search?q=拜登新冠检测呈阳性)
 1. [如何看待A股市场](https://www.zhihu.com/search?q=如何看待A股市场)
 1. [游戏本推荐](https://www.zhihu.com/search?q=游戏本推荐)
@@ -190,7 +190,7 @@
 ## 知乎热门话题
 
 <!-- BEGIN ZHIHUQUESTIONS -->
-<!-- 最后更新时间 Fri Jul 19 2024 09:58:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 19 2024 09:59:02 GMT+0800 (China Standard Time) -->
 1. [单休已成职场用工新要求，「大小周」成 HR 最大让步 ，该制度合理合法吗？如何看待当前加班普遍化现象？](https://www.zhihu.com/question/661930056)
 1. [爱奇艺就限制投屏案提起上诉，称「没有义务永久、免费提供高清晰投屏服务」，如何看待这一回应？](https://www.zhihu.com/question/661872387)
 1. [北京有银行房贷「返点」金额 1% 以上，如何评价这种交易行为？有哪些潜在风险？](https://www.zhihu.com/question/661936920)
@@ -306,7 +306,7 @@
 ## 知乎热门视频
 
 <!-- BEGIN ZHIHUVIDEO -->
-<!-- 最后更新时间 Fri Jul 19 2024 09:58:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Jul 19 2024 09:59:02 GMT+0800 (China Standard Time) -->
 1. [单休已成职场用工新要求，「大小周」成 HR 最大让步 ，该制度合理合法吗？如何看待当前加班普遍化现象？](https://www.zhihu.com/question/661930056)
 1. [爱奇艺就限制投屏案提起上诉，称「没有义务永久、免费提供高清晰投屏服务」，如何看待这一回应？](https://www.zhihu.com/question/661872387)
 1. [北京有银行房贷「返点」金额 1% 以上，如何评价这种交易行为？有哪些潜在风险？](https://www.zhihu.com/question/661936920)
@@ -422,8 +422,8 @@
 ## 微博热搜
 
 <!-- BEGIN WEIBO -->
-<!-- 最后更新时间 Fri Jul 19 2024 09:58:58 GMT+0800 (China Standard Time) -->
-1. [二十届三中全会公报](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%23&Refer=new_time)
+<!-- 最后更新时间 Fri Jul 19 2024 09:59:02 GMT+0800 (China Standard Time) -->
+1. [二十届三中全会公报全文](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%E5%85%A8%E6%96%87%23&Refer=new_time)
 1. [郑佩佩](https://s.weibo.com//weibo?q=%E9%83%91%E4%BD%A9%E4%BD%A9&t=31&band_rank=1&Refer=top)
 1. [中共中央举行新闻发布会](https://s.weibo.com//weibo?q=%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E4%B8%BE%E8%A1%8C%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=2&Refer=top)
 1. [进一步全面深化改革的总目标](https://s.weibo.com//weibo?q=%23%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%85%A8%E9%9D%A2%E6%B7%B1%E5%8C%96%E6%94%B9%E9%9D%A9%E7%9A%84%E6%80%BB%E7%9B%AE%E6%A0%87%23&t=31&band_rank=3&Refer=top)
@@ -474,6 +474,7 @@
 1. [女子醉卧马路被轧身亡送人者遭索赔](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%AD%90%E9%86%89%E5%8D%A7%E9%A9%AC%E8%B7%AF%E8%A2%AB%E8%BD%A7%E8%BA%AB%E4%BA%A1%E9%80%81%E4%BA%BA%E8%80%85%E9%81%AD%E7%B4%A2%E8%B5%94%23&t=31&band_rank=48&Refer=top)
 1. [JDG给无畏直接买头等舱](https://s.weibo.com//weibo?q=%23JDG%E7%BB%99%E6%97%A0%E7%95%8F%E7%9B%B4%E6%8E%A5%E4%B9%B0%E5%A4%B4%E7%AD%89%E8%88%B1%23&t=31&band_rank=49&Refer=top)
 1. [少年白马醉春风](https://s.weibo.com//weibo?q=%E5%B0%91%E5%B9%B4%E7%99%BD%E9%A9%AC%E9%86%89%E6%98%A5%E9%A3%8E&t=31&band_rank=50&Refer=top)
+1. [二十届三中全会公报](https://s.weibo.com//weibo?q=%23%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%89%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%85%AC%E6%8A%A5%23&Refer=new_time)
 1. [杭州5.2万辆共享单车不烫屁股](https://s.weibo.com//weibo?q=%23%E6%9D%AD%E5%B7%9E5.2%E4%B8%87%E8%BE%86%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E4%B8%8D%E7%83%AB%E5%B1%81%E8%82%A1%23&t=31&band_rank=1&Refer=top)
 1. [涂山璟下线](https://s.weibo.com//weibo?q=%E6%B6%82%E5%B1%B1%E7%92%9F%E4%B8%8B%E7%BA%BF&t=31&band_rank=2&Refer=top)
 1. [她老公剃掉头发那刻秒杀所有偶像剧](https://s.weibo.com//weibo?q=%23%E5%A5%B9%E8%80%81%E5%85%AC%E5%89%83%E6%8E%89%E5%A4%B4%E5%8F%91%E9%82%A3%E5%88%BB%E7%A7%92%E6%9D%80%E6%89%80%E6%9C%89%E5%81%B6%E5%83%8F%E5%89%A7%23&t=31&band_rank=4&Refer=top)
